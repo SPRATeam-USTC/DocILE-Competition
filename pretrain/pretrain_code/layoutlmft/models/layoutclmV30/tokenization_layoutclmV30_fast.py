@@ -1,0 +1,1 @@
+from ..layoutlmv2 import LayoutLMv2TokenizerFast as LayoutCLMv30TokenizerFast

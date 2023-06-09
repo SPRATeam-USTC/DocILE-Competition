@@ -1,0 +1,1139 @@
+*****************************************
+Setting OMP_NUM_THREADS environment variable for each process to be 1 in default, to avoid your system being overloaded, please further tune the variable for optimal performance in your application as needed. 
+*****************************************
+No ROCm runtime is found, using ROCM_HOME='/opt/rocm'
+No ROCm runtime is found, using ROCM_HOME='/opt/rocm'
+No ROCm runtime is found, using ROCM_HOME='/opt/rocm'No ROCm runtime is found, using ROCM_HOME='/opt/rocm'No ROCm runtime is found, using ROCM_HOME='/opt/rocm'
+
+
+No ROCm runtime is found, using ROCM_HOME='/opt/rocm'
+No ROCm runtime is found, using ROCM_HOME='/opt/rocm'
+No ROCm runtime is found, using ROCM_HOME='/opt/rocm'
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:58:58 [0] NCCL INFO Bootstrap : Using [0]eth0:100.109.20.177<0>
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:58:58 [0] NCCL INFO NET/Plugin : No plugin found (libnccl-net.so), using internal implementation
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:58:58 [0] NCCL INFO NCCL_IB_DISABLE set by environment to 1.
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:58:58 [0] NCCL INFO NET/Socket : Using [0]eth0:100.109.20.177<0>
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:58:58 [0] NCCL INFO Using network Socket
+NCCL version 2.7.8+cuda11.0
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:64:64 [6] NCCL INFO Bootstrap : Using [0]eth0:100.109.20.177<0>
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:64:64 [6] NCCL INFO NET/Plugin : No plugin found (libnccl-net.so), using internal implementation
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:65:65 [7] NCCL INFO Bootstrap : Using [0]eth0:100.109.20.177<0>
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:65:65 [7] NCCL INFO NET/Plugin : No plugin found (libnccl-net.so), using internal implementation
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:59:59 [1] NCCL INFO Bootstrap : Using [0]eth0:100.109.20.177<0>
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:64:64 [6] NCCL INFO NCCL_IB_DISABLE set by environment to 1.
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:64:64 [6] NCCL INFO NET/Socket : Using [0]eth0:100.109.20.177<0>
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:64:64 [6] NCCL INFO Using network Socket
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:59:59 [1] NCCL INFO NET/Plugin : No plugin found (libnccl-net.so), using internal implementation
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:65:65 [7] NCCL INFO NCCL_IB_DISABLE set by environment to 1.
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:65:65 [7] NCCL INFO NET/Socket : Using [0]eth0:100.109.20.177<0>
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:65:65 [7] NCCL INFO Using network Socket
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:59:59 [1] NCCL INFO NCCL_IB_DISABLE set by environment to 1.
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:59:59 [1] NCCL INFO NET/Socket : Using [0]eth0:100.109.20.177<0>
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:59:59 [1] NCCL INFO Using network Socket
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:63:63 [5] NCCL INFO Bootstrap : Using [0]eth0:100.109.20.177<0>
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:63:63 [5] NCCL INFO NET/Plugin : No plugin found (libnccl-net.so), using internal implementation
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:63:63 [5] NCCL INFO NCCL_IB_DISABLE set by environment to 1.
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:63:63 [5] NCCL INFO NET/Socket : Using [0]eth0:100.109.20.177<0>
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:63:63 [5] NCCL INFO Using network Socket
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:62:62 [4] NCCL INFO Bootstrap : Using [0]eth0:100.109.20.177<0>
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:62:62 [4] NCCL INFO NET/Plugin : No plugin found (libnccl-net.so), using internal implementation
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:62:62 [4] NCCL INFO NCCL_IB_DISABLE set by environment to 1.
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:62:62 [4] NCCL INFO NET/Socket : Using [0]eth0:100.109.20.177<0>
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:62:62 [4] NCCL INFO Using network Socket
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:60:60 [2] NCCL INFO Bootstrap : Using [0]eth0:100.109.20.177<0>
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:60:60 [2] NCCL INFO NET/Plugin : No plugin found (libnccl-net.so), using internal implementation
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:60:60 [2] NCCL INFO NCCL_IB_DISABLE set by environment to 1.
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:60:60 [2] NCCL INFO NET/Socket : Using [0]eth0:100.109.20.177<0>
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:60:60 [2] NCCL INFO Using network Socket
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:61:61 [3] NCCL INFO Bootstrap : Using [0]eth0:100.109.20.177<0>
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:61:61 [3] NCCL INFO NET/Plugin : No plugin found (libnccl-net.so), using internal implementation
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:61:61 [3] NCCL INFO NCCL_IB_DISABLE set by environment to 1.
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:61:61 [3] NCCL INFO NET/Socket : Using [0]eth0:100.109.20.177<0>
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:61:61 [3] NCCL INFO Using network Socket
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:58:380 [0] NCCL INFO Channel 00/02 :    0   1   2   3   4   5   6   7
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:60:386 [2] NCCL INFO threadThresholds 8/8/64 | 64/8/64 | 8/8/64
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:64:381 [6] NCCL INFO threadThresholds 8/8/64 | 64/8/64 | 8/8/64
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:59:383 [1] NCCL INFO threadThresholds 8/8/64 | 64/8/64 | 8/8/64
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:61:387 [3] NCCL INFO threadThresholds 8/8/64 | 64/8/64 | 8/8/64
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:65:382 [7] NCCL INFO threadThresholds 8/8/64 | 64/8/64 | 8/8/64
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:58:380 [0] NCCL INFO Channel 01/02 :    0   1   2   3   4   5   6   7
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:60:386 [2] NCCL INFO Trees [0] 3/-1/-1->2->1|1->2->3/-1/-1 [1] 3/-1/-1->2->1|1->2->3/-1/-1
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:59:383 [1] NCCL INFO Trees [0] 2/-1/-1->1->0|0->1->2/-1/-1 [1] 2/-1/-1->1->0|0->1->2/-1/-1
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:64:381 [6] NCCL INFO Trees [0] 7/-1/-1->6->5|5->6->7/-1/-1 [1] 7/-1/-1->6->5|5->6->7/-1/-1
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:62:385 [4] NCCL INFO threadThresholds 8/8/64 | 64/8/64 | 8/8/64
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:61:387 [3] NCCL INFO Trees [0] 4/-1/-1->3->2|2->3->4/-1/-1 [1] 4/-1/-1->3->2|2->3->4/-1/-1
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:63:384 [5] NCCL INFO threadThresholds 8/8/64 | 64/8/64 | 8/8/64
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:65:382 [7] NCCL INFO Trees [0] -1/-1/-1->7->6|6->7->-1/-1/-1 [1] -1/-1/-1->7->6|6->7->-1/-1/-1
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:60:386 [2] NCCL INFO Setting affinity for GPU 2 to ffff,0000ffff
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:59:383 [1] NCCL INFO Setting affinity for GPU 1 to ffff,0000ffff
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:64:381 [6] NCCL INFO Setting affinity for GPU 6 to ffff,0000ffff
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:62:385 [4] NCCL INFO Trees [0] 5/-1/-1->4->3|3->4->5/-1/-1 [1] 5/-1/-1->4->3|3->4->5/-1/-1
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:63:384 [5] NCCL INFO Trees [0] 6/-1/-1->5->4|4->5->6/-1/-1 [1] 6/-1/-1->5->4|4->5->6/-1/-1
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:61:387 [3] NCCL INFO Setting affinity for GPU 3 to ffff,0000ffff
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:65:382 [7] NCCL INFO Setting affinity for GPU 7 to ffff,0000ffff
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:62:385 [4] NCCL INFO Setting affinity for GPU 4 to ffff,0000ffff
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:63:384 [5] NCCL INFO Setting affinity for GPU 5 to ffff,0000ffff
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:58:380 [0] NCCL INFO threadThresholds 8/8/64 | 64/8/64 | 8/8/64
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:58:380 [0] NCCL INFO Trees [0] 1/-1/-1->0->-1|-1->0->1/-1/-1 [1] 1/-1/-1->0->-1|-1->0->1/-1/-1
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:58:380 [0] NCCL INFO Setting affinity for GPU 0 to ffff,0000ffff
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:62:385 [4] NCCL INFO Channel 00 : 4[44000] -> 5[45000] via P2P/IPC
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:64:381 [6] NCCL INFO Channel 00 : 6[46000] -> 7[47000] via P2P/IPC
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:65:382 [7] NCCL INFO Channel 00 : 7[47000] -> 0[3d000] via P2P/IPC
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:58:380 [0] NCCL INFO Channel 00 : 0[3d000] -> 1[3e000] via P2P/IPC
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:60:386 [2] NCCL INFO Channel 00 : 2[41000] -> 3[42000] via P2P/IPC
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:61:387 [3] NCCL INFO Channel 00 : 3[42000] -> 4[44000] via P2P/IPC
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:59:383 [1] NCCL INFO Channel 00 : 1[3e000] -> 2[41000] via P2P/IPC
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:63:384 [5] NCCL INFO Channel 00 : 5[45000] -> 6[46000] via P2P/IPC
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:65:382 [7] NCCL INFO Channel 00 : 7[47000] -> 6[46000] via P2P/IPC
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:62:385 [4] NCCL INFO Channel 00 : 4[44000] -> 3[42000] via P2P/IPC
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:60:386 [2] NCCL INFO Channel 00 : 2[41000] -> 1[3e000] via P2P/IPC
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:64:381 [6] NCCL INFO Channel 00 : 6[46000] -> 5[45000] via P2P/IPC
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:59:383 [1] NCCL INFO Channel 00 : 1[3e000] -> 0[3d000] via P2P/IPC
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:61:387 [3] NCCL INFO Channel 00 : 3[42000] -> 2[41000] via P2P/IPC
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:63:384 [5] NCCL INFO Channel 00 : 5[45000] -> 4[44000] via P2P/IPC
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:65:382 [7] NCCL INFO Channel 01 : 7[47000] -> 0[3d000] via P2P/IPC
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:58:380 [0] NCCL INFO Channel 01 : 0[3d000] -> 1[3e000] via P2P/IPC
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:60:386 [2] NCCL INFO Channel 01 : 2[41000] -> 3[42000] via P2P/IPC
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:64:381 [6] NCCL INFO Channel 01 : 6[46000] -> 7[47000] via P2P/IPC
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:62:385 [4] NCCL INFO Channel 01 : 4[44000] -> 5[45000] via P2P/IPC
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:59:383 [1] NCCL INFO Channel 01 : 1[3e000] -> 2[41000] via P2P/IPC
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:61:387 [3] NCCL INFO Channel 01 : 3[42000] -> 4[44000] via P2P/IPC
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:63:384 [5] NCCL INFO Channel 01 : 5[45000] -> 6[46000] via P2P/IPC
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:65:382 [7] NCCL INFO Channel 01 : 7[47000] -> 6[46000] via P2P/IPC
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:60:386 [2] NCCL INFO Channel 01 : 2[41000] -> 1[3e000] via P2P/IPC
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:65:382 [7] NCCL INFO 2 coll channels, 2 p2p channels, 2 p2p channels per peer
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:65:382 [7] NCCL INFO comm 0x7f1e9c000e00 rank 7 nranks 8 cudaDev 7 busId 47000 - Init COMPLETE
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:61:387 [3] NCCL INFO Channel 01 : 3[42000] -> 2[41000] via P2P/IPC
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:64:381 [6] NCCL INFO Channel 01 : 6[46000] -> 5[45000] via P2P/IPC
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:62:385 [4] NCCL INFO Channel 01 : 4[44000] -> 3[42000] via P2P/IPC
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:59:383 [1] NCCL INFO Channel 01 : 1[3e000] -> 0[3d000] via P2P/IPC
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:63:384 [5] NCCL INFO Channel 01 : 5[45000] -> 4[44000] via P2P/IPC
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:60:386 [2] NCCL INFO 2 coll channels, 2 p2p channels, 2 p2p channels per peer
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:60:386 [2] NCCL INFO comm 0x7fb788000e00 rank 2 nranks 8 cudaDev 2 busId 41000 - Init COMPLETE
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:58:380 [0] NCCL INFO 2 coll channels, 2 p2p channels, 2 p2p channels per peer
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:58:380 [0] NCCL INFO comm 0x7f4ac8000e00 rank 0 nranks 8 cudaDev 0 busId 3d000 - Init COMPLETE
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:61:387 [3] NCCL INFO 2 coll channels, 2 p2p channels, 2 p2p channels per peer
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:58:58 [0] NCCL INFO Launch mode Parallel
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:61:387 [3] NCCL INFO comm 0x7fe05c000e00 rank 3 nranks 8 cudaDev 3 busId 42000 - Init COMPLETE
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:62:385 [4] NCCL INFO 2 coll channels, 2 p2p channels, 2 p2p channels per peer
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:64:381 [6] NCCL INFO 2 coll channels, 2 p2p channels, 2 p2p channels per peer
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:59:383 [1] NCCL INFO 2 coll channels, 2 p2p channels, 2 p2p channels per peer
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:63:384 [5] NCCL INFO 2 coll channels, 2 p2p channels, 2 p2p channels per peer
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:64:381 [6] NCCL INFO comm 0x7f02a4000e00 rank 6 nranks 8 cudaDev 6 busId 46000 - Init COMPLETE
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:63:384 [5] NCCL INFO comm 0x7f9104000e00 rank 5 nranks 8 cudaDev 5 busId 45000 - Init COMPLETE
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:59:383 [1] NCCL INFO comm 0x7f6b88000e00 rank 1 nranks 8 cudaDev 1 busId 3e000 - Init COMPLETE
+bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um:62:385 [4] NCCL INFO comm 0x7efca0000e00 rank 4 nranks 8 cudaDev 4 busId 44000 - Init COMPLETE
+05/15/2023 17:03:59 - WARNING - __main__ -   Process rank: 2, device: cuda:2, n_gpu: 1 distributed training: True, 16-bits training: True
+05/15/2023 17:03:59 - WARNING - __main__ -   Process rank: 7, device: cuda:7, n_gpu: 1 distributed training: True, 16-bits training: True
+05/15/2023 17:03:59 - WARNING - __main__ -   Process rank: 6, device: cuda:6, n_gpu: 1 distributed training: True, 16-bits training: True
+05/15/2023 17:03:59 - WARNING - __main__ -   Process rank: 4, device: cuda:4, n_gpu: 1 distributed training: True, 16-bits training: True
+05/15/2023 17:03:59 - WARNING - __main__ -   Process rank: 0, device: cuda:0, n_gpu: 1 distributed training: True, 16-bits training: True
+05/15/2023 17:03:59 - WARNING - __main__ -   Process rank: 3, device: cuda:3, n_gpu: 1 distributed training: True, 16-bits training: True
+05/15/2023 17:03:59 - WARNING - __main__ -   Process rank: 5, device: cuda:5, n_gpu: 1 distributed training: True, 16-bits training: True
+05/15/2023 17:03:59 - WARNING - __main__ -   Process rank: 1, device: cuda:1, n_gpu: 1 distributed training: True, 16-bits training: True
+05/15/2023 17:03:59 - INFO - __main__ -   Training/evaluation parameters TrainingArguments(output_dir=../../experiments/layoutclmV30C6/pretrain_docile_topk60_line, overwrite_output_dir=False, do_train=True, do_eval=False, do_predict=False, evaluation_strategy=IntervalStrategy.NO, prediction_loss_only=False, per_device_train_batch_size=30, per_device_eval_batch_size=30, gradient_accumulation_steps=1, eval_accumulation_steps=None, learning_rate=5e-05, weight_decay=0.0, adam_beta1=0.9, adam_beta2=0.999, adam_epsilon=1e-08, max_grad_norm=1.0, num_train_epochs=4.0, max_steps=-1, lr_scheduler_type=SchedulerType.LINEAR, warmup_ratio=0.1, warmup_steps=0, logging_dir=runs/May15_17-03-53_bt-e28ad7dc-f683-pretrain-ptjob-worker-w6qc-1-lx0um, logging_strategy=IntervalStrategy.STEPS, logging_first_step=False, logging_steps=50, save_strategy=IntervalStrategy.EPOCH, save_steps=500, save_total_limit=None, no_cuda=False, seed=42, fp16=True, fp16_opt_level=O1, fp16_backend=auto, fp16_full_eval=False, local_rank=0, tpu_num_cores=None, tpu_metrics_debug=False, debug=[], dataloader_drop_last=False, eval_steps=50, dataloader_num_workers=4, past_index=-1, run_name=../../experiments/layoutclmV30C6/pretrain_docile_topk60_line, disable_tqdm=False, remove_unused_columns=True, label_names=['dtc_labels', 'bdp_labels'], load_best_model_at_end=False, metric_for_best_model=None, greater_is_better=None, ignore_data_skip=True, sharded_ddp=[], deepspeed=None, label_smoothing_factor=0.0, adafactor=False, group_by_length=False, length_column_name=length, report_to=['tensorboard'], ddp_find_unused_parameters=None, dataloader_pin_memory=True, skip_memory_metrics=False, use_legacy_prediction_loop=False, push_to_hub=False, resume_from_checkpoint=None, _n_gpu=1, mp_parameters=)
+05/15/2023 17:04:05 - WARNING - layoutlmft.models.layoutclmV30.modeling_layoutclmV30 -   while loading vision backbone from /path/to/swin_t.pth 
+ missing_keys:  
+ unexpected_keys: bbox_head.heatmap_head.0.weight,bbox_head.heatmap_head.0.bias,bbox_head.heatmap_head.2.weight,bbox_head.heatmap_head.2.bias,bbox_head.wh_head.0.weight,bbox_head.wh_head.0.bias,bbox_head.wh_head.2.weight,bbox_head.wh_head.2.bias,bbox_head.offset_head.0.weight,bbox_head.offset_head.0.bias,bbox_head.offset_head.2.weight,bbox_head.offset_head.2.bias
+05/15/2023 17:04:06 - WARNING - layoutlmft.models.layoutclmV30.modeling_layoutclmV30 -   while loading vision backbone from /path/to/swin_t.pth 
+ missing_keys:  
+ unexpected_keys: bbox_head.heatmap_head.0.weight,bbox_head.heatmap_head.0.bias,bbox_head.heatmap_head.2.weight,bbox_head.heatmap_head.2.bias,bbox_head.wh_head.0.weight,bbox_head.wh_head.0.bias,bbox_head.wh_head.2.weight,bbox_head.wh_head.2.bias,bbox_head.offset_head.0.weight,bbox_head.offset_head.0.bias,bbox_head.offset_head.2.weight,bbox_head.offset_head.2.bias
+05/15/2023 17:04:06 - WARNING - layoutlmft.models.layoutclmV30.modeling_layoutclmV30 -   while loading vision backbone from /path/to/swin_t.pth 
+ missing_keys:  
+ unexpected_keys: bbox_head.heatmap_head.0.weight,bbox_head.heatmap_head.0.bias,bbox_head.heatmap_head.2.weight,bbox_head.heatmap_head.2.bias,bbox_head.wh_head.0.weight,bbox_head.wh_head.0.bias,bbox_head.wh_head.2.weight,bbox_head.wh_head.2.bias,bbox_head.offset_head.0.weight,bbox_head.offset_head.0.bias,bbox_head.offset_head.2.weight,bbox_head.offset_head.2.bias
+05/15/2023 17:04:07 - WARNING - layoutlmft.models.layoutclmV30.modeling_layoutclmV30 -   while loading vision backbone from /path/to/swin_t.pth 
+ missing_keys:  
+ unexpected_keys: bbox_head.heatmap_head.0.weight,bbox_head.heatmap_head.0.bias,bbox_head.heatmap_head.2.weight,bbox_head.heatmap_head.2.bias,bbox_head.wh_head.0.weight,bbox_head.wh_head.0.bias,bbox_head.wh_head.2.weight,bbox_head.wh_head.2.bias,bbox_head.offset_head.0.weight,bbox_head.offset_head.0.bias,bbox_head.offset_head.2.weight,bbox_head.offset_head.2.bias
+05/15/2023 17:04:07 - WARNING - layoutlmft.models.layoutclmV30.modeling_layoutclmV30 -   while loading vision backbone from /path/to/swin_t.pth 
+ missing_keys:  
+ unexpected_keys: bbox_head.heatmap_head.0.weight,bbox_head.heatmap_head.0.bias,bbox_head.heatmap_head.2.weight,bbox_head.heatmap_head.2.bias,bbox_head.wh_head.0.weight,bbox_head.wh_head.0.bias,bbox_head.wh_head.2.weight,bbox_head.wh_head.2.bias,bbox_head.offset_head.0.weight,bbox_head.offset_head.0.bias,bbox_head.offset_head.2.weight,bbox_head.offset_head.2.bias
+05/15/2023 17:04:07 - WARNING - layoutlmft.models.layoutclmV30.modeling_layoutclmV30 -   while loading vision backbone from /path/to/swin_t.pth 
+ missing_keys:  
+ unexpected_keys: bbox_head.heatmap_head.0.weight,bbox_head.heatmap_head.0.bias,bbox_head.heatmap_head.2.weight,bbox_head.heatmap_head.2.bias,bbox_head.wh_head.0.weight,bbox_head.wh_head.0.bias,bbox_head.wh_head.2.weight,bbox_head.wh_head.2.bias,bbox_head.offset_head.0.weight,bbox_head.offset_head.0.bias,bbox_head.offset_head.2.weight,bbox_head.offset_head.2.bias
+05/15/2023 17:04:07 - WARNING - layoutlmft.models.layoutclmV30.modeling_layoutclmV30 -   while loading vision backbone from /path/to/swin_t.pth 
+ missing_keys:  
+ unexpected_keys: bbox_head.heatmap_head.0.weight,bbox_head.heatmap_head.0.bias,bbox_head.heatmap_head.2.weight,bbox_head.heatmap_head.2.bias,bbox_head.wh_head.0.weight,bbox_head.wh_head.0.bias,bbox_head.wh_head.2.weight,bbox_head.wh_head.2.bias,bbox_head.offset_head.0.weight,bbox_head.offset_head.0.bias,bbox_head.offset_head.2.weight,bbox_head.offset_head.2.bias
+05/15/2023 17:04:07 - WARNING - layoutlmft.models.layoutclmV30.modeling_layoutclmV30 -   while loading vision backbone from /path/to/swin_t.pth 
+ missing_keys:  
+ unexpected_keys: bbox_head.heatmap_head.0.weight,bbox_head.heatmap_head.0.bias,bbox_head.heatmap_head.2.weight,bbox_head.heatmap_head.2.bias,bbox_head.wh_head.0.weight,bbox_head.wh_head.0.bias,bbox_head.wh_head.2.weight,bbox_head.wh_head.2.bias,bbox_head.offset_head.0.weight,bbox_head.offset_head.0.bias,bbox_head.offset_head.2.weight,bbox_head.offset_head.2.bias
+
+
+{'loss': 0.3273, 'learning_rate': 5.107e-07, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.3273, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.0}
+{'loss': 0.2862, 'learning_rate': 1.0215e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.3067, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.01}
+{'loss': 0.2265, 'learning_rate': 1.5322e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.28, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.01}
+{'loss': 0.1986, 'learning_rate': 2.0429e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.2597, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.02}
+{'loss': 0.1901, 'learning_rate': 2.5536e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.2458, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.02}
+{'loss': 0.1879, 'learning_rate': 3.0644e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.2361, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.02}
+{'loss': 0.1858, 'learning_rate': 3.5751e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.2289, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.03}
+{'loss': 0.1841, 'learning_rate': 4.0858e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.2233, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.03}
+{'loss': 0.182, 'learning_rate': 4.5965e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.2187, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.04}
+{'loss': 0.18, 'learning_rate': 5.1073e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.2149, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.04}
+{'loss': 0.1788, 'learning_rate': 5.618e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.2116, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.04}
+{'loss': 0.1744, 'learning_rate': 6.1287e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.2085, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.05}
+{'loss': 0.1658, 'learning_rate': 6.6394e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.2052, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.05}
+{'loss': 0.1579, 'learning_rate': 7.1502e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.2018, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.06}
+{'loss': 0.1514, 'learning_rate': 7.6609e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.1985, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.06}
+{'loss': 0.1479, 'learning_rate': 8.1716e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.1953, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.07}
+{'loss': 0.1432, 'learning_rate': 8.6823e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.1922, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.07}
+{'loss': 0.1402, 'learning_rate': 9.1931e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.1893, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.07}
+{'loss': 0.1364, 'learning_rate': 9.7038e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.1866, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.08}
+{'loss': 0.1361, 'learning_rate': 1.02145e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.184, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.08}
+{'loss': 0.1337, 'learning_rate': 1.07252e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.1744, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.09}
+{'loss': 0.1319, 'learning_rate': 1.1236e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.1666, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.09}
+{'loss': 0.131, 'learning_rate': 1.17467e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.1619, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.09}
+{'loss': 0.1274, 'learning_rate': 1.22574e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.1583, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.1}
+{'loss': 0.1266, 'learning_rate': 1.27681e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.1551, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.1}
+{'loss': 0.1254, 'learning_rate': 1.32789e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.152, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.11}
+{'loss': 0.1241, 'learning_rate': 1.37896e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.1489, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.11}
+{'loss': 0.1203, 'learning_rate': 1.43003e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.1457, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.11}
+{'loss': 0.1188, 'learning_rate': 1.4811e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.1426, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.12}
+{'loss': 0.1159, 'learning_rate': 1.53218e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.1394, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.12}
+{'loss': 0.1141, 'learning_rate': 1.58325e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.1361, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.13}
+{'loss': 0.1132, 'learning_rate': 1.63432e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.1331, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.13}
+{'loss': 0.1117, 'learning_rate': 1.68539e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.1304, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.13}
+{'loss': 0.109, 'learning_rate': 1.73647e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.1279, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.14}
+{'loss': 0.1079, 'learning_rate': 1.78754e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.1257, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.14}
+{'loss': 0.1062, 'learning_rate': 1.83861e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.1237, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.15}
+{'loss': 0.1055, 'learning_rate': 1.88968e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.1218, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.15}
+{'loss': 0.1048, 'learning_rate': 1.94076e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.12, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.16}
+{'loss': 0.1005, 'learning_rate': 1.99183e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.1182, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.16}
+{'loss': 0.1022, 'learning_rate': 2.0429e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.1165, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.16}
+{'loss': 0.0998, 'learning_rate': 2.09397e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.1148, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.17}
+{'loss': 0.0991, 'learning_rate': 2.14505e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.1132, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.17}
+{'loss': 0.0975, 'learning_rate': 2.19612e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.1115, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.18}
+{'loss': 0.0959, 'learning_rate': 2.24719e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.1099, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.18}
+{'loss': 0.0961, 'learning_rate': 2.29826e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.1084, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.18}
+{'loss': 0.0936, 'learning_rate': 2.34934e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.1068, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.19}
+{'loss': 0.0944, 'learning_rate': 2.40041e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.1053, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.19}
+{'loss': 0.0923, 'learning_rate': 2.45148e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.1039, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.2}
+{'loss': 0.0909, 'learning_rate': 2.50255e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.1025, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.2}
+{'loss': 0.0897, 'learning_rate': 2.55363e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.1012, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.2}
+{'loss': 0.0903, 'learning_rate': 2.6047e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.1, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.21}
+{'loss': 0.0871, 'learning_rate': 2.65577e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0987, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.21}
+{'loss': 0.0874, 'learning_rate': 2.70684e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0975, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.22}
+{'loss': 0.0864, 'learning_rate': 2.75792e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0964, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.22}
+{'loss': 0.0839, 'learning_rate': 2.80899e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0952, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.22}
+{'loss': 0.0837, 'learning_rate': 2.86006e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0941, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.23}
+{'loss': 0.0833, 'learning_rate': 2.91113e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0929, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.23}
+{'loss': 0.0807, 'learning_rate': 2.96221e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0917, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.24}
+{'loss': 0.0821, 'learning_rate': 3.01328e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0908, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.24}
+{'loss': 0.0798, 'learning_rate': 3.06435e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0897, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.25}
+{'loss': 0.0796, 'learning_rate': 3.11542e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0887, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.25}
+{'loss': 0.0798, 'learning_rate': 3.1665e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0877, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.25}
+{'loss': 0.0782, 'learning_rate': 3.21757e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0868, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.26}
+{'loss': 0.0776, 'learning_rate': 3.26864e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0858, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.26}
+{'loss': 0.0752, 'learning_rate': 3.31971e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0848, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.27}
+{'loss': 0.077, 'learning_rate': 3.37079e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.084, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.27}
+{'loss': 0.076, 'learning_rate': 3.42186e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.083, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.27}
+{'loss': 0.0747, 'learning_rate': 3.47293e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0822, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.28}
+{'loss': 0.0737, 'learning_rate': 3.524e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0813, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.28}
+{'loss': 0.0726, 'learning_rate': 3.57508e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0805, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.29}
+{'loss': 0.0716, 'learning_rate': 3.62615e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0795, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.29}
+{'loss': 0.0719, 'learning_rate': 3.67722e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0788, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.29}
+{'loss': 0.0731, 'learning_rate': 3.72829e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.078, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.3}
+{'loss': 0.0704, 'learning_rate': 3.77937e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0772, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.3}
+{'loss': 0.0713, 'learning_rate': 3.83044e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0766, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.31}
+{'loss': 0.0716, 'learning_rate': 3.88151e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.076, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.31}
+{'loss': 0.0694, 'learning_rate': 3.93258e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0753, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.31}
+{'loss': 0.0693, 'learning_rate': 3.98366e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0747, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.32}
+{'loss': 0.0682, 'learning_rate': 4.03473e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0741, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.32}
+{'loss': 0.0676, 'learning_rate': 4.0858e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0734, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.33}
+{'loss': 0.068, 'learning_rate': 4.13687e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0729, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.33}
+{'loss': 0.0683, 'learning_rate': 4.18795e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0723, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.34}
+{'loss': 0.0671, 'learning_rate': 4.23902e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0717, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.34}
+{'loss': 0.0665, 'learning_rate': 4.29009e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0712, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.34}
+{'loss': 0.0664, 'learning_rate': 4.34116e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0707, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.35}
+{'loss': 0.0675, 'learning_rate': 4.39224e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0703, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.35}
+{'loss': 0.0654, 'learning_rate': 4.44331e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0697, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.36}
+{'loss': 0.0637, 'learning_rate': 4.49438e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0692, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.36}
+{'loss': 0.064, 'learning_rate': 4.54545e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0687, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.36}
+{'loss': 0.0651, 'learning_rate': 4.59653e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0683, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.37}
+{'loss': 0.064, 'learning_rate': 4.6476e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0679, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.37}
+{'loss': 0.0632, 'learning_rate': 4.69867e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0675, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.38}
+{'loss': 0.0624, 'learning_rate': 4.74974e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.067, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.38}
+{'loss': 0.0609, 'learning_rate': 4.80082e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0665, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.38}
+{'loss': 0.062, 'learning_rate': 4.85189e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.066, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.39}
+{'loss': 0.0605, 'learning_rate': 4.90296e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0655, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.39}
+{'loss': 0.0611, 'learning_rate': 4.95403e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0651, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.4}
+{'loss': 0.0609, 'learning_rate': 4.99943e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0646, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.4}
+{'loss': 0.0616, 'learning_rate': 4.99376e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0643, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.4}
+{'loss': 0.0602, 'learning_rate': 4.98808e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0639, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.41}
+{'loss': 0.0607, 'learning_rate': 4.98241e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0636, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.41}
+{'loss': 0.0595, 'learning_rate': 4.97673e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0631, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.42}
+{'loss': 0.0607, 'learning_rate': 4.97106e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0628, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.42}
+{'loss': 0.0592, 'learning_rate': 4.96538e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0624, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.42}
+{'loss': 0.0574, 'learning_rate': 4.95971e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.062, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.43}
+{'loss': 0.0585, 'learning_rate': 4.95403e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0615, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.43}
+{'loss': 0.0579, 'learning_rate': 4.94836e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0612, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.44}
+{'loss': 0.0579, 'learning_rate': 4.94268e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0609, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.44}
+{'loss': 0.0575, 'learning_rate': 4.93701e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0606, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.45}
+{'loss': 0.0564, 'learning_rate': 4.93133e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0601, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.45}
+{'loss': 0.0567, 'learning_rate': 4.92566e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0598, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.45}
+{'loss': 0.057, 'learning_rate': 4.91998e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0595, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.46}
+{'loss': 0.0562, 'learning_rate': 4.91431e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0591, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.46}
+{'loss': 0.0561, 'learning_rate': 4.90863e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0589, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.47}
+{'loss': 0.0565, 'learning_rate': 4.90296e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0586, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.47}
+{'loss': 0.0557, 'learning_rate': 4.89728e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0584, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.47}
+{'loss': 0.0554, 'learning_rate': 4.89161e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0581, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.48}
+{'loss': 0.0552, 'learning_rate': 4.88593e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0578, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.48}
+{'loss': 0.0557, 'learning_rate': 4.88026e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0575, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.49}
+{'loss': 0.055, 'learning_rate': 4.87458e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0573, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.49}
+{'loss': 0.0549, 'learning_rate': 4.86891e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.057, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.49}
+{'loss': 0.0558, 'learning_rate': 4.86323e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0568, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.5}
+{'loss': 0.0535, 'learning_rate': 4.85756e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0564, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.5}
+{'loss': 0.0535, 'learning_rate': 4.85188e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0561, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.51}
+{'loss': 0.0542, 'learning_rate': 4.84621e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.056, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.51}
+{'loss': 0.0538, 'learning_rate': 4.84053e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0557, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.51}
+{'loss': 0.0527, 'learning_rate': 4.83486e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0555, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.52}
+{'loss': 0.0526, 'learning_rate': 4.82918e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0552, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.52}
+{'loss': 0.0524, 'learning_rate': 4.82351e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.055, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.53}
+{'loss': 0.052, 'learning_rate': 4.81783e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0547, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.53}
+{'loss': 0.0523, 'learning_rate': 4.81216e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0545, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.54}
+{'loss': 0.0521, 'learning_rate': 4.80648e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0543, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.54}
+{'loss': 0.0545, 'learning_rate': 4.80081e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0542, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.54}
+{'loss': 0.0535, 'learning_rate': 4.79513e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0541, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.55}
+{'loss': 0.0511, 'learning_rate': 4.78946e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0538, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.55}
+{'loss': 0.052, 'learning_rate': 4.78378e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0536, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.56}
+{'loss': 0.0525, 'learning_rate': 4.77811e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0535, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.56}
+{'loss': 0.0508, 'learning_rate': 4.77243e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0532, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.56}
+{'loss': 0.0522, 'learning_rate': 4.76676e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0531, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.57}
+{'loss': 0.0504, 'learning_rate': 4.76108e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0528, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.57}
+{'loss': 0.0523, 'learning_rate': 4.75541e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0527, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.58}
+{'loss': 0.0508, 'learning_rate': 4.74973e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0525, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.58}
+{'loss': 0.0519, 'learning_rate': 4.74406e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0524, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.58}
+{'loss': 0.0496, 'learning_rate': 4.73838e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0522, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.59}
+{'loss': 0.0506, 'learning_rate': 4.73271e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.052, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.59}
+{'loss': 0.0506, 'learning_rate': 4.72703e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0518, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.6}
+{'loss': 0.0498, 'learning_rate': 4.72136e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0517, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.6}
+{'loss': 0.0506, 'learning_rate': 4.71568e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0516, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.6}
+{'loss': 0.0503, 'learning_rate': 4.71001e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0515, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.61}
+{'loss': 0.0505, 'learning_rate': 4.70433e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0514, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.61}
+{'loss': 0.0514, 'learning_rate': 4.69866e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0514, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.62}
+{'loss': 0.0499, 'learning_rate': 4.69298e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0513, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.62}
+{'loss': 0.049, 'learning_rate': 4.68731e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.051, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.63}
+{'loss': 0.0492, 'learning_rate': 4.68163e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0508, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.63}
+{'loss': 0.0494, 'learning_rate': 4.67596e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0507, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.63}
+{'loss': 0.049, 'learning_rate': 4.67028e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0505, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.64}
+{'loss': 0.0497, 'learning_rate': 4.66461e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0504, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.64}
+{'loss': 0.0488, 'learning_rate': 4.65893e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0503, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.65}
+{'loss': 0.0478, 'learning_rate': 4.65326e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0501, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.65}
+{'loss': 0.0489, 'learning_rate': 4.64758e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.05, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.65}
+{'loss': 0.0484, 'learning_rate': 4.64191e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0498, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.66}
+{'loss': 0.049, 'learning_rate': 4.63623e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0497, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.66}
+{'loss': 0.0484, 'learning_rate': 4.63056e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0495, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.67}
+{'loss': 0.047, 'learning_rate': 4.62488e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0494, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.67}
+{'loss': 0.0487, 'learning_rate': 4.61921e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0493, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.67}
+{'loss': 0.0479, 'learning_rate': 4.61353e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0492, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.68}
+{'loss': 0.0488, 'learning_rate': 4.60786e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0491, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.68}
+{'loss': 0.0481, 'learning_rate': 4.60218e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.049, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.69}
+{'loss': 0.0466, 'learning_rate': 4.59651e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0488, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.69}
+{'loss': 0.0473, 'learning_rate': 4.59083e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0487, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.69}
+{'loss': 0.0472, 'learning_rate': 4.58516e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0485, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.7}
+{'loss': 0.0472, 'learning_rate': 4.57948e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0483, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.7}
+{'loss': 0.0474, 'learning_rate': 4.57381e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0482, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.71}
+{'loss': 0.0466, 'learning_rate': 4.56813e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0481, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.71}
+{'loss': 0.0469, 'learning_rate': 4.56246e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.048, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.72}
+{'loss': 0.0463, 'learning_rate': 4.55678e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0479, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.72}
+{'loss': 0.0472, 'learning_rate': 4.55111e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0477, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.72}
+{'loss': 0.0478, 'learning_rate': 4.54543e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0477, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.73}
+{'loss': 0.0475, 'learning_rate': 4.53976e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0477, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.73}
+{'loss': 0.0465, 'learning_rate': 4.53408e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0475, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.74}
+{'loss': 0.045, 'learning_rate': 4.52841e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0474, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.74}
+{'loss': 0.0456, 'learning_rate': 4.52273e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0472, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.74}
+{'loss': 0.0455, 'learning_rate': 4.51706e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0471, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.75}
+{'loss': 0.0468, 'learning_rate': 4.51138e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0471, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.75}
+{'loss': 0.0462, 'learning_rate': 4.50571e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0469, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.76}
+{'loss': 0.0455, 'learning_rate': 4.50003e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0468, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.76}
+{'loss': 0.046, 'learning_rate': 4.49436e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0467, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.76}
+{'loss': 0.0464, 'learning_rate': 4.48868e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0466, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.77}
+{'loss': 0.0447, 'learning_rate': 4.48301e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0465, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.77}
+{'loss': 0.0459, 'learning_rate': 4.47733e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0464, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.78}
+{'loss': 0.0462, 'learning_rate': 4.47166e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0464, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.78}
+{'loss': 0.0461, 'learning_rate': 4.46598e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0463, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.78}
+{'loss': 0.0454, 'learning_rate': 4.46031e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0462, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.79}
+{'loss': 0.045, 'learning_rate': 4.45463e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0461, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.79}
+{'loss': 0.0459, 'learning_rate': 4.44896e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0461, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.8}
+{'loss': 0.0469, 'learning_rate': 4.44328e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0461, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.8}
+{'loss': 0.0447, 'learning_rate': 4.43761e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.046, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.8}
+{'loss': 0.0453, 'learning_rate': 4.43193e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0459, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.81}
+{'loss': 0.044, 'learning_rate': 4.42626e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0457, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.81}
+{'loss': 0.0458, 'learning_rate': 4.42058e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0457, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.82}
+{'loss': 0.045, 'learning_rate': 4.41491e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0457, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.82}
+{'loss': 0.0451, 'learning_rate': 4.40923e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0456, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.83}
+{'loss': 0.0446, 'learning_rate': 4.40356e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0456, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.83}
+{'loss': 0.0459, 'learning_rate': 4.39788e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0455, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.83}
+{'loss': 0.0443, 'learning_rate': 4.39221e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0454, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.84}
+{'loss': 0.0443, 'learning_rate': 4.38653e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0454, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.84}
+{'loss': 0.0452, 'learning_rate': 4.38086e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0453, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.85}
+{'loss': 0.0452, 'learning_rate': 4.37518e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0453, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.85}
+{'loss': 0.0442, 'learning_rate': 4.36951e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0453, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.85}
+{'loss': 0.0439, 'learning_rate': 4.36383e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0452, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.86}
+{'loss': 0.0451, 'learning_rate': 4.35816e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0451, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.86}
+{'loss': 0.0439, 'learning_rate': 4.35248e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.045, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.87}
+{'loss': 0.0439, 'learning_rate': 4.34681e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0449, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.87}
+{'loss': 0.044, 'learning_rate': 4.34113e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0449, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.87}
+{'loss': 0.0442, 'learning_rate': 4.33546e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0448, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.88}
+{'loss': 0.044, 'learning_rate': 4.32978e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0446, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.88}
+{'loss': 0.0436, 'learning_rate': 4.32411e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0446, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.89}
+{'loss': 0.0443, 'learning_rate': 4.31843e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0445, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.89}
+{'loss': 0.0435, 'learning_rate': 4.31276e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0445, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.89}
+{'loss': 0.0437, 'learning_rate': 4.30708e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0444, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.9}
+{'loss': 0.0433, 'learning_rate': 4.30141e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0443, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.9}
+{'loss': 0.044, 'learning_rate': 4.29573e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0443, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.91}
+{'loss': 0.0435, 'learning_rate': 4.29006e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0442, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.91}
+{'loss': 0.044, 'learning_rate': 4.28438e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0441, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.92}
+{'loss': 0.0435, 'learning_rate': 4.27871e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0441, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.92}
+{'loss': 0.0439, 'learning_rate': 4.27303e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.044, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.92}
+{'loss': 0.0428, 'learning_rate': 4.26736e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0439, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.93}
+{'loss': 0.0437, 'learning_rate': 4.26168e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0438, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.93}
+{'loss': 0.044, 'learning_rate': 4.25601e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0438, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.94}
+{'loss': 0.043, 'learning_rate': 4.25033e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0438, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.94}
+{'loss': 0.0448, 'learning_rate': 4.24466e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0438, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.94}
+{'loss': 0.0441, 'learning_rate': 4.23898e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0438, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.95}
+{'loss': 0.0425, 'learning_rate': 4.23331e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0437, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.95}
+{'loss': 0.0432, 'learning_rate': 4.22763e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0437, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.96}
+{'loss': 0.0428, 'learning_rate': 4.22196e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0436, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.96}
+{'loss': 0.0431, 'learning_rate': 4.21628e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0436, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.96}
+{'loss': 0.0434, 'learning_rate': 4.21061e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0435, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.97}
+{'loss': 0.0429, 'learning_rate': 4.20493e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0435, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.97}
+{'loss': 0.0422, 'learning_rate': 4.19926e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0434, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.98}
+{'loss': 0.0428, 'learning_rate': 4.19358e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0434, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.98}
+{'loss': 0.0427, 'learning_rate': 4.18791e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0433, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.98}
+{'loss': 0.0418, 'learning_rate': 4.18224e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0432, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.99}
+{'loss': 0.0418, 'learning_rate': 4.17656e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0431, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 0.99}
+{'loss': 0.0433, 'learning_rate': 4.17089e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0431, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.0}
+{'loss': 0.0425, 'learning_rate': 4.16521e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0431, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.0}
+{'loss': 0.041, 'learning_rate': 4.15954e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0429, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.01}
+{'loss': 0.043, 'learning_rate': 4.15386e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0429, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.01}
+{'loss': 0.043, 'learning_rate': 4.14819e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0429, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.01}
+{'loss': 0.0432, 'learning_rate': 4.14251e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0428, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.02}
+{'loss': 0.043, 'learning_rate': 4.13684e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0428, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.02}
+{'loss': 0.043, 'learning_rate': 4.13116e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0428, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.03}
+{'loss': 0.042, 'learning_rate': 4.12549e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0426, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.03}
+{'loss': 0.0421, 'learning_rate': 4.11981e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0426, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.03}
+{'loss': 0.0427, 'learning_rate': 4.11414e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0426, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.04}
+{'loss': 0.0417, 'learning_rate': 4.10857e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0426, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.04}
+{'loss': 0.0415, 'learning_rate': 4.1029e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0425, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.05}
+{'loss': 0.0418, 'learning_rate': 4.09722e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0424, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.05}
+{'loss': 0.0422, 'learning_rate': 4.09155e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0424, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.05}
+{'loss': 0.0421, 'learning_rate': 4.08587e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0424, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.06}
+{'loss': 0.0416, 'learning_rate': 4.0802e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0423, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.06}
+{'loss': 0.0419, 'learning_rate': 4.07452e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0423, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.07}
+{'loss': 0.0415, 'learning_rate': 4.06885e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0422, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.07}
+{'loss': 0.0418, 'learning_rate': 4.06317e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0422, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.07}
+{'loss': 0.042, 'learning_rate': 4.0575e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0422, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.08}
+{'loss': 0.0413, 'learning_rate': 4.05182e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0421, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.08}
+{'loss': 0.0416, 'learning_rate': 4.04615e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0421, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.09}
+{'loss': 0.0416, 'learning_rate': 4.04047e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0421, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.09}
+{'loss': 0.04, 'learning_rate': 4.0348e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0419, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.1}
+{'loss': 0.0406, 'learning_rate': 4.02912e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0418, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.1}
+{'loss': 0.0415, 'learning_rate': 4.02345e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0417, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.1}
+{'loss': 0.0407, 'learning_rate': 4.01777e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0416, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.11}
+{'loss': 0.0417, 'learning_rate': 4.0121e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0416, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.11}
+{'loss': 0.0411, 'learning_rate': 4.00642e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0415, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.12}
+{'loss': 0.0399, 'learning_rate': 4.00075e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0414, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.12}
+{'loss': 0.0403, 'learning_rate': 3.99507e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0413, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.12}
+{'loss': 0.0398, 'learning_rate': 3.9894e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0412, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.13}
+{'loss': 0.0417, 'learning_rate': 3.98372e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0412, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.13}
+{'loss': 0.0408, 'learning_rate': 3.97805e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0412, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.14}
+{'loss': 0.0412, 'learning_rate': 3.97237e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0411, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.14}
+{'loss': 0.0398, 'learning_rate': 3.9667e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.041, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.14}
+{'loss': 0.042, 'learning_rate': 3.96102e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.041, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.15}
+{'loss': 0.0396, 'learning_rate': 3.95535e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0409, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.15}
+{'loss': 0.0419, 'learning_rate': 3.94967e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.041, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.16}
+{'loss': 0.0417, 'learning_rate': 3.944e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0409, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.16}
+{'loss': 0.0415, 'learning_rate': 3.93832e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.041, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.16}
+{'loss': 0.0396, 'learning_rate': 3.93265e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0408, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.17}
+{'loss': 0.0396, 'learning_rate': 3.92697e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0408, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.17}
+{'loss': 0.0397, 'learning_rate': 3.9213e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0407, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.18}
+{'loss': 0.0406, 'learning_rate': 3.91562e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0407, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.18}
+{'loss': 0.0403, 'learning_rate': 3.90995e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0407, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.18}
+{'loss': 0.0399, 'learning_rate': 3.90427e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0406, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.19}
+{'loss': 0.041, 'learning_rate': 3.8986e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0406, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.19}
+{'loss': 0.0414, 'learning_rate': 3.89292e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0406, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.2}
+{'loss': 0.0403, 'learning_rate': 3.88725e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0406, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.2}
+{'loss': 0.0406, 'learning_rate': 3.88157e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0407, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.21}
+{'loss': 0.0406, 'learning_rate': 3.8759e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0407, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.21}
+{'loss': 0.04, 'learning_rate': 3.87022e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0406, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.21}
+{'loss': 0.0399, 'learning_rate': 3.86455e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0406, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.22}
+{'loss': 0.0402, 'learning_rate': 3.85887e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0405, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.22}
+{'loss': 0.0398, 'learning_rate': 3.8532e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0405, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.23}
+{'loss': 0.0398, 'learning_rate': 3.84752e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0404, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.23}
+{'loss': 0.0397, 'learning_rate': 3.84185e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0404, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.23}
+{'loss': 0.0397, 'learning_rate': 3.83617e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0403, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.24}
+{'loss': 0.0414, 'learning_rate': 3.8305e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0403, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.24}
+{'loss': 0.0395, 'learning_rate': 3.82482e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0402, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.25}
+{'loss': 0.0414, 'learning_rate': 3.81915e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0403, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.25}
+{'loss': 0.0387, 'learning_rate': 3.81347e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0402, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.25}
+{'loss': 0.0419, 'learning_rate': 3.8078e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0403, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.26}
+{'loss': 0.0394, 'learning_rate': 3.80212e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0403, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.26}
+{'loss': 0.039, 'learning_rate': 3.79645e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0402, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.27}
+{'loss': 0.0404, 'learning_rate': 3.79077e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0402, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.27}
+{'loss': 0.0401, 'learning_rate': 3.7851e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0402, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.27}
+{'loss': 0.0395, 'learning_rate': 3.77942e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0401, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.28}
+{'loss': 0.0386, 'learning_rate': 3.77375e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.04, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.28}
+{'loss': 0.0394, 'learning_rate': 3.76807e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.04, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.29}
+{'loss': 0.0396, 'learning_rate': 3.7624e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0399, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.29}
+{'loss': 0.0391, 'learning_rate': 3.75672e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0399, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.3}
+{'loss': 0.0394, 'learning_rate': 3.75105e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0398, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.3}
+{'loss': 0.0389, 'learning_rate': 3.74537e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0398, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.3}
+{'loss': 0.0389, 'learning_rate': 3.7397e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0397, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.31}
+{'loss': 0.0394, 'learning_rate': 3.73402e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0397, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.31}
+{'loss': 0.0391, 'learning_rate': 3.72835e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0397, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.32}
+{'loss': 0.0384, 'learning_rate': 3.72279e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0396, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.32}
+{'loss': 0.0389, 'learning_rate': 3.71711e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0395, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.32}
+{'loss': 0.0382, 'learning_rate': 3.71144e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0394, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.33}
+{'loss': 0.0395, 'learning_rate': 3.70576e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0393, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.33}
+{'loss': 0.04, 'learning_rate': 3.70009e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0394, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.34}
+{'loss': 0.039, 'learning_rate': 3.69441e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0392, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.34}
+{'loss': 0.0392, 'learning_rate': 3.68874e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0392, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.34}
+{'loss': 0.0389, 'learning_rate': 3.68306e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0392, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.35}
+{'loss': 0.0386, 'learning_rate': 3.67739e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0391, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.35}
+{'loss': 0.0397, 'learning_rate': 3.67171e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0391, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.36}
+{'loss': 0.0399, 'learning_rate': 3.66604e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0391, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.36}
+{'loss': 0.0373, 'learning_rate': 3.66036e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0391, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.36}
+{'loss': 0.0393, 'learning_rate': 3.65469e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0391, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.37}
+{'loss': 0.0385, 'learning_rate': 3.64901e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.039, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.37}
+{'loss': 0.038, 'learning_rate': 3.64334e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.039, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.38}
+{'loss': 0.0386, 'learning_rate': 3.63766e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0389, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.38}
+{'loss': 0.0394, 'learning_rate': 3.63199e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.039, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.39}
+{'loss': 0.0377, 'learning_rate': 3.62631e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0389, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.39}
+{'loss': 0.0381, 'learning_rate': 3.62064e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0388, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.39}
+{'loss': 0.0388, 'learning_rate': 3.61496e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0388, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.4}
+{'loss': 0.0386, 'learning_rate': 3.60929e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0388, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.4}
+{'loss': 0.0384, 'learning_rate': 3.60361e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0388, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.41}
+{'loss': 0.0398, 'learning_rate': 3.59794e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0389, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.41}
+{'loss': 0.0383, 'learning_rate': 3.59226e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0388, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.41}
+{'loss': 0.038, 'learning_rate': 3.58659e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0387, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.42}
+{'loss': 0.0386, 'learning_rate': 3.58091e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0387, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.42}
+{'loss': 0.038, 'learning_rate': 3.57524e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0386, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.43}
+{'loss': 0.0389, 'learning_rate': 3.56956e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0386, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.43}
+{'loss': 0.0395, 'learning_rate': 3.56389e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0387, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.43}
+{'loss': 0.0372, 'learning_rate': 3.55821e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0385, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.44}
+{'loss': 0.0376, 'learning_rate': 3.55254e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0384, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.44}
+{'loss': 0.0389, 'learning_rate': 3.54686e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0385, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.45}
+{'loss': 0.0389, 'learning_rate': 3.54119e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0385, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.45}
+{'loss': 0.0371, 'learning_rate': 3.53551e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0384, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.45}
+{'loss': 0.0377, 'learning_rate': 3.52984e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0384, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.46}
+{'loss': 0.038, 'learning_rate': 3.52416e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0384, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.46}
+{'loss': 0.0379, 'learning_rate': 3.51849e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0383, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.47}
+{'loss': 0.0374, 'learning_rate': 3.51281e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0383, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.47}
+{'loss': 0.039, 'learning_rate': 3.50714e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0383, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.48}
+{'loss': 0.038, 'learning_rate': 3.50146e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0383, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.48}
+{'loss': 0.0388, 'learning_rate': 3.49579e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0383, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.48}
+{'loss': 0.0381, 'learning_rate': 3.49011e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0383, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.49}
+{'loss': 0.0387, 'learning_rate': 3.48444e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0382, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.49}
+{'loss': 0.037, 'learning_rate': 3.47876e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0382, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.5}
+{'loss': 0.0376, 'learning_rate': 3.47309e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0381, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.5}
+{'loss': 0.038, 'learning_rate': 3.46741e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0381, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.5}
+{'loss': 0.0382, 'learning_rate': 3.46174e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0381, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.51}
+{'loss': 0.0394, 'learning_rate': 3.45606e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0382, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.51}
+{'loss': 0.0375, 'learning_rate': 3.45039e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0381, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.52}
+{'loss': 0.0373, 'learning_rate': 3.44471e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0381, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.52}
+{'loss': 0.0384, 'learning_rate': 3.43915e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0381, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.52}
+{'loss': 0.0378, 'learning_rate': 3.43348e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.038, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.53}
+{'loss': 0.0373, 'learning_rate': 3.4278e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.038, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.53}
+{'loss': 0.0392, 'learning_rate': 3.42213e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0381, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.54}
+{'loss': 0.0365, 'learning_rate': 3.41645e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.038, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.54}
+{'loss': 0.0378, 'learning_rate': 3.41078e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.038, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.54}
+{'loss': 0.0378, 'learning_rate': 3.4051e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.038, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.55}
+{'loss': 0.0381, 'learning_rate': 3.39943e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.038, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.55}
+{'loss': 0.0374, 'learning_rate': 3.39375e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0379, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.56}
+{'loss': 0.0371, 'learning_rate': 3.38808e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0379, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.56}
+{'loss': 0.038, 'learning_rate': 3.3824e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0379, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.56}
+{'loss': 0.0372, 'learning_rate': 3.37673e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0378, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.57}
+{'loss': 0.0377, 'learning_rate': 3.37105e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0378, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.57}
+{'loss': 0.0388, 'learning_rate': 3.36538e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0378, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.58}
+{'loss': 0.0372, 'learning_rate': 3.3597e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0378, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.58}
+{'loss': 0.0371, 'learning_rate': 3.35403e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0378, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.59}
+{'loss': 0.0372, 'learning_rate': 3.34835e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0377, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.59}
+{'loss': 0.0373, 'learning_rate': 3.34268e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0376, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.59}
+{'loss': 0.0372, 'learning_rate': 3.337e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0376, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.6}
+{'loss': 0.0372, 'learning_rate': 3.33133e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0376, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.6}
+{'loss': 0.0355, 'learning_rate': 3.32565e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0375, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.61}
+{'loss': 0.0371, 'learning_rate': 3.31998e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0374, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.61}
+{'loss': 0.0361, 'learning_rate': 3.3143e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0374, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.61}
+{'loss': 0.0369, 'learning_rate': 3.30863e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0373, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.62}
+{'loss': 0.0363, 'learning_rate': 3.30295e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0372, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.62}
+{'loss': 0.0366, 'learning_rate': 3.29728e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0372, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.63}
+{'loss': 0.0359, 'learning_rate': 3.2916e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0371, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.63}
+{'loss': 0.0373, 'learning_rate': 3.28593e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0371, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.63}
+{'loss': 0.0375, 'learning_rate': 3.28025e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0371, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.64}
+{'loss': 0.0368, 'learning_rate': 3.27458e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.037, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.64}
+{'loss': 0.0369, 'learning_rate': 3.2689e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.037, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.65}
+{'loss': 0.0364, 'learning_rate': 3.26323e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0369, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.65}
+{'loss': 0.0365, 'learning_rate': 3.25755e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0369, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.65}
+{'loss': 0.0353, 'learning_rate': 3.25188e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0367, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.66}
+{'loss': 0.0375, 'learning_rate': 3.2462e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0367, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.66}
+{'loss': 0.0367, 'learning_rate': 3.24053e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0367, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.67}
+{'loss': 0.0369, 'learning_rate': 3.23485e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0367, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.67}
+{'loss': 0.0373, 'learning_rate': 3.22918e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0367, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.68}
+{'loss': 0.0378, 'learning_rate': 3.2235e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0367, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.68}
+{'loss': 0.0357, 'learning_rate': 3.21783e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0367, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.68}
+{'loss': 0.0372, 'learning_rate': 3.21215e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0367, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.69}
+{'loss': 0.0361, 'learning_rate': 3.20648e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0367, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.69}
+{'loss': 0.0368, 'learning_rate': 3.2008e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0367, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.7}
+{'loss': 0.0374, 'learning_rate': 3.19513e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0368, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.7}
+{'loss': 0.0374, 'learning_rate': 3.18945e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0368, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.7}
+{'loss': 0.0371, 'learning_rate': 3.18378e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0368, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.71}
+{'loss': 0.0362, 'learning_rate': 3.17822e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0368, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.71}
+{'loss': 0.0363, 'learning_rate': 3.17254e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0368, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.72}
+{'loss': 0.0362, 'learning_rate': 3.16687e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0367, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.72}
+{'loss': 0.0357, 'learning_rate': 3.16119e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0367, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.72}
+{'loss': 0.0359, 'learning_rate': 3.15552e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0366, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.73}
+{'loss': 0.0371, 'learning_rate': 3.14984e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0367, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.73}
+{'loss': 0.0374, 'learning_rate': 3.14417e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0367, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.74}
+{'loss': 0.0364, 'learning_rate': 3.13849e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0368, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.74}
+{'loss': 0.0374, 'learning_rate': 3.13282e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0368, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.74}
+{'loss': 0.0361, 'learning_rate': 3.12714e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0367, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.75}
+{'loss': 0.0372, 'learning_rate': 3.12147e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0367, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.75}
+{'loss': 0.0359, 'learning_rate': 3.11579e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0367, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.76}
+{'loss': 0.0361, 'learning_rate': 3.11012e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0366, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.76}
+{'loss': 0.0362, 'learning_rate': 3.10444e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0366, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.77}
+{'loss': 0.0356, 'learning_rate': 3.09877e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0365, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.77}
+{'loss': 0.0354, 'learning_rate': 3.09309e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0365, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.77}
+{'loss': 0.0364, 'learning_rate': 3.08742e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0365, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.78}
+{'loss': 0.0358, 'learning_rate': 3.08174e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0364, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.78}
+{'loss': 0.0356, 'learning_rate': 3.07607e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0363, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.79}
+{'loss': 0.036, 'learning_rate': 3.07039e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0362, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.79}
+{'loss': 0.0374, 'learning_rate': 3.06472e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0363, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.79}
+{'loss': 0.0364, 'learning_rate': 3.05904e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0363, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.8}
+{'loss': 0.0376, 'learning_rate': 3.05337e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0364, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.8}
+{'loss': 0.0369, 'learning_rate': 3.04769e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0364, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.81}
+{'loss': 0.0358, 'learning_rate': 3.04202e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0364, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.81}
+{'loss': 0.0362, 'learning_rate': 3.03634e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0364, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.81}
+{'loss': 0.0359, 'learning_rate': 3.03067e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0363, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.82}
+{'loss': 0.0368, 'learning_rate': 3.02499e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0363, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.82}
+{'loss': 0.0347, 'learning_rate': 3.01932e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0362, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.83}
+{'loss': 0.0347, 'learning_rate': 3.01364e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0361, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.83}
+{'loss': 0.035, 'learning_rate': 3.00797e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.036, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.83}
+{'loss': 0.0349, 'learning_rate': 3.00229e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.036, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.84}
+{'loss': 0.0363, 'learning_rate': 2.99662e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.036, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.84}
+{'loss': 0.0364, 'learning_rate': 2.99094e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.036, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.85}
+{'loss': 0.0358, 'learning_rate': 2.98527e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.036, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.85}
+{'loss': 0.0354, 'learning_rate': 2.97959e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.036, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.86}
+{'loss': 0.0372, 'learning_rate': 2.97392e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.036, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.86}
+{'loss': 0.0358, 'learning_rate': 2.96824e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.036, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.86}
+{'loss': 0.0352, 'learning_rate': 2.96257e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.036, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.87}
+{'loss': 0.0362, 'learning_rate': 2.95689e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.036, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.87}
+{'loss': 0.0357, 'learning_rate': 2.95122e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0359, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.88}
+{'loss': 0.0356, 'learning_rate': 2.94554e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0359, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.88}
+{'loss': 0.0362, 'learning_rate': 2.93987e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0358, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.88}
+{'loss': 0.0355, 'learning_rate': 2.93431e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0358, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.89}
+{'loss': 0.036, 'learning_rate': 2.92863e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0358, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.89}
+{'loss': 0.035, 'learning_rate': 2.92296e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0357, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.9}
+{'loss': 0.0365, 'learning_rate': 2.91728e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0357, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.9}
+{'loss': 0.0351, 'learning_rate': 2.91161e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0357, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.9}
+{'loss': 0.0352, 'learning_rate': 2.90593e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0357, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.91}
+{'loss': 0.0354, 'learning_rate': 2.90026e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0357, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.91}
+{'loss': 0.036, 'learning_rate': 2.89458e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0358, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.92}
+{'loss': 0.036, 'learning_rate': 2.88891e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0358, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.92}
+{'loss': 0.0358, 'learning_rate': 2.88323e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0358, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.92}
+{'loss': 0.0356, 'learning_rate': 2.87756e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0358, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.93}
+{'loss': 0.0342, 'learning_rate': 2.87188e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0357, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.93}
+{'loss': 0.0357, 'learning_rate': 2.86621e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0357, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.94}
+{'loss': 0.0362, 'learning_rate': 2.86053e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0356, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.94}
+{'loss': 0.0347, 'learning_rate': 2.85486e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0356, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.94}
+{'loss': 0.0341, 'learning_rate': 2.84918e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0355, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.95}
+{'loss': 0.0365, 'learning_rate': 2.84351e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0355, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.95}
+{'loss': 0.0357, 'learning_rate': 2.83783e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0355, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.96}
+{'loss': 0.0349, 'learning_rate': 2.83216e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0355, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.96}
+{'loss': 0.0363, 'learning_rate': 2.82648e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0355, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.97}
+{'loss': 0.0366, 'learning_rate': 2.82081e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0356, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.97}
+{'loss': 0.0361, 'learning_rate': 2.81513e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0356, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.97}
+{'loss': 0.0357, 'learning_rate': 2.80946e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0356, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.98}
+{'loss': 0.0345, 'learning_rate': 2.80378e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0355, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.98}
+{'loss': 0.036, 'learning_rate': 2.79811e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0355, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.99}
+{'loss': 0.0357, 'learning_rate': 2.79243e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0356, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.99}
+{'loss': 0.0364, 'learning_rate': 2.78676e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0356, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 1.99}
+{'loss': 0.0349, 'learning_rate': 2.78108e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0356, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.0}
+{'loss': 0.0346, 'learning_rate': 2.77541e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0355, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.0}
+{'loss': 0.0348, 'learning_rate': 2.76973e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0354, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.01}
+{'loss': 0.0361, 'learning_rate': 2.76406e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0355, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.01}
+{'loss': 0.0355, 'learning_rate': 2.75838e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0355, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.01}
+{'loss': 0.035, 'learning_rate': 2.75271e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0355, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.02}
+{'loss': 0.0347, 'learning_rate': 2.74703e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0354, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.02}
+{'loss': 0.0345, 'learning_rate': 2.74136e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0354, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.03}
+{'loss': 0.0355, 'learning_rate': 2.73568e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0355, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.03}
+{'loss': 0.035, 'learning_rate': 2.73001e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0354, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.03}
+{'loss': 0.0364, 'learning_rate': 2.72433e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0355, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.04}
+{'loss': 0.0346, 'learning_rate': 2.71866e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0354, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.04}
+{'loss': 0.0347, 'learning_rate': 2.71298e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0354, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.05}
+{'loss': 0.036, 'learning_rate': 2.70742e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0353, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.05}
+{'loss': 0.0361, 'learning_rate': 2.70175e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0353, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.06}
+{'loss': 0.0344, 'learning_rate': 2.69607e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0353, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.06}
+{'loss': 0.0358, 'learning_rate': 2.6904e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0353, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.06}
+{'loss': 0.0357, 'learning_rate': 2.68472e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0353, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.07}
+{'loss': 0.0354, 'learning_rate': 2.67905e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0353, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.07}
+{'loss': 0.0354, 'learning_rate': 2.67337e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0353, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.08}
+{'loss': 0.0346, 'learning_rate': 2.6677e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0352, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.08}
+{'loss': 0.0339, 'learning_rate': 2.66202e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0352, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.08}
+{'loss': 0.0355, 'learning_rate': 2.65635e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0353, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.09}
+{'loss': 0.0336, 'learning_rate': 2.65067e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0351, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.09}
+{'loss': 0.0347, 'learning_rate': 2.645e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0351, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.1}
+{'loss': 0.0344, 'learning_rate': 2.63932e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0351, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.1}
+{'loss': 0.036, 'learning_rate': 2.63365e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0351, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.1}
+{'loss': 0.0361, 'learning_rate': 2.62797e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0352, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.11}
+{'loss': 0.0349, 'learning_rate': 2.6223e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0352, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.11}
+{'loss': 0.0348, 'learning_rate': 2.61662e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0352, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.12}
+{'loss': 0.0358, 'learning_rate': 2.61095e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0351, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.12}
+{'loss': 0.0351, 'learning_rate': 2.60527e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0351, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.12}
+{'loss': 0.0349, 'learning_rate': 2.5996e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0352, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.13}
+{'loss': 0.034, 'learning_rate': 2.59392e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0351, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.13}
+{'loss': 0.0343, 'learning_rate': 2.58825e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.035, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.14}
+{'loss': 0.0343, 'learning_rate': 2.58257e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.035, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.14}
+{'loss': 0.0352, 'learning_rate': 2.5769e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0349, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.15}
+{'loss': 0.0348, 'learning_rate': 2.57122e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0349, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.15}
+{'loss': 0.0344, 'learning_rate': 2.56555e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0348, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.15}
+{'loss': 0.0349, 'learning_rate': 2.55987e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0348, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.16}
+{'loss': 0.0341, 'learning_rate': 2.5542e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0348, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.16}
+{'loss': 0.0342, 'learning_rate': 2.54852e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0348, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.17}
+{'loss': 0.0324, 'learning_rate': 2.54285e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0346, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.17}
+{'loss': 0.0342, 'learning_rate': 2.53717e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0347, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.17}
+{'loss': 0.0349, 'learning_rate': 2.5315e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0347, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.18}
+{'loss': 0.0348, 'learning_rate': 2.52582e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0347, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.18}
+{'loss': 0.0348, 'learning_rate': 2.52015e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0346, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.19}
+{'loss': 0.0343, 'learning_rate': 2.51447e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0345, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.19}
+{'loss': 0.0337, 'learning_rate': 2.5088e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0345, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.19}
+{'loss': 0.035, 'learning_rate': 2.50312e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0345, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.2}
+{'loss': 0.0341, 'learning_rate': 2.49745e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0344, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.2}
+{'loss': 0.0348, 'learning_rate': 2.49177e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0344, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.21}
+{'loss': 0.0335, 'learning_rate': 2.4861e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0343, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.21}
+{'loss': 0.0343, 'learning_rate': 2.48042e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0343, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.21}
+{'loss': 0.0349, 'learning_rate': 2.47486e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0344, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.22}
+{'loss': 0.0343, 'learning_rate': 2.46918e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0344, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.22}
+{'loss': 0.0343, 'learning_rate': 2.46351e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0343, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.23}
+{'loss': 0.035, 'learning_rate': 2.45783e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0343, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.23}
+{'loss': 0.0338, 'learning_rate': 2.45216e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0343, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.24}
+{'loss': 0.0352, 'learning_rate': 2.44648e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0343, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.24}
+{'loss': 0.0351, 'learning_rate': 2.44081e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0344, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.24}
+{'loss': 0.0338, 'learning_rate': 2.43513e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0344, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.25}
+{'loss': 0.0342, 'learning_rate': 2.42946e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0344, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.25}
+{'loss': 0.0332, 'learning_rate': 2.42378e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0344, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.26}
+{'loss': 0.0345, 'learning_rate': 2.41811e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0344, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.26}
+{'loss': 0.0351, 'learning_rate': 2.41244e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0344, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.26}
+{'loss': 0.0342, 'learning_rate': 2.40676e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0344, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.27}
+{'loss': 0.0335, 'learning_rate': 2.40109e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0343, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.27}
+{'loss': 0.0346, 'learning_rate': 2.39541e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0344, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.28}
+{'loss': 0.0334, 'learning_rate': 2.38974e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0343, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.28}
+{'loss': 0.0346, 'learning_rate': 2.38406e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0343, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.28}
+{'loss': 0.0348, 'learning_rate': 2.37839e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0343, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.29}
+{'loss': 0.0338, 'learning_rate': 2.37271e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0343, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.29}
+{'loss': 0.0345, 'learning_rate': 2.36704e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0343, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.3}
+{'loss': 0.0344, 'learning_rate': 2.36136e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0343, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.3}
+{'loss': 0.0338, 'learning_rate': 2.35569e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0343, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.3}
+{'loss': 0.0341, 'learning_rate': 2.35001e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0343, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.31}
+{'loss': 0.0353, 'learning_rate': 2.34434e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0343, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.31}
+{'loss': 0.0339, 'learning_rate': 2.33866e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0343, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.32}
+{'loss': 0.0354, 'learning_rate': 2.33299e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0343, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.32}
+{'loss': 0.0337, 'learning_rate': 2.32731e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0342, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.32}
+{'loss': 0.0342, 'learning_rate': 2.32164e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0343, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.33}
+{'loss': 0.0335, 'learning_rate': 2.31596e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0342, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.33}
+{'loss': 0.0337, 'learning_rate': 2.31029e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0343, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.34}
+{'loss': 0.0327, 'learning_rate': 2.30461e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0342, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.34}
+{'loss': 0.0337, 'learning_rate': 2.29894e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0341, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.35}
+{'loss': 0.0344, 'learning_rate': 2.29326e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0341, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.35}
+{'loss': 0.033, 'learning_rate': 2.28759e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0341, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.35}
+{'loss': 0.0351, 'learning_rate': 2.28191e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0341, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.36}
+{'loss': 0.0336, 'learning_rate': 2.27624e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0341, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.36}
+{'loss': 0.0347, 'learning_rate': 2.27056e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0341, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.37}
+{'loss': 0.0333, 'learning_rate': 2.26489e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.034, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.37}
+{'loss': 0.0336, 'learning_rate': 2.25921e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.034, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.37}
+{'loss': 0.0332, 'learning_rate': 2.25354e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.034, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.38}
+{'loss': 0.0332, 'learning_rate': 2.24786e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0339, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.38}
+{'loss': 0.0333, 'learning_rate': 2.24219e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0339, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.39}
+{'loss': 0.0342, 'learning_rate': 2.23651e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0339, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.39}
+{'loss': 0.0334, 'learning_rate': 2.23084e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0338, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.39}
+{'loss': 0.0339, 'learning_rate': 2.22527e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0338, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.4}
+{'loss': 0.0337, 'learning_rate': 2.2196e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0337, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.4}
+{'loss': 0.0339, 'learning_rate': 2.21392e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0337, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.41}
+{'loss': 0.0337, 'learning_rate': 2.20825e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0337, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.41}
+{'loss': 0.0334, 'learning_rate': 2.20257e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0337, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.41}
+{'loss': 0.0339, 'learning_rate': 2.1969e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0337, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.42}
+{'loss': 0.0342, 'learning_rate': 2.19122e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0338, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.42}
+{'loss': 0.0335, 'learning_rate': 2.18555e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0338, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.43}
+{'loss': 0.034, 'learning_rate': 2.17987e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0337, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.43}
+{'loss': 0.0345, 'learning_rate': 2.1742e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0338, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.44}
+{'loss': 0.0333, 'learning_rate': 2.16852e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0337, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.44}
+{'loss': 0.0338, 'learning_rate': 2.16285e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0337, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.44}
+{'loss': 0.0337, 'learning_rate': 2.15717e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0337, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.45}
+{'loss': 0.0329, 'learning_rate': 2.1515e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0337, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.45}
+{'loss': 0.0341, 'learning_rate': 2.14582e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0337, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.46}
+{'loss': 0.034, 'learning_rate': 2.14015e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0337, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.46}
+{'loss': 0.0336, 'learning_rate': 2.13447e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0337, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.46}
+{'loss': 0.034, 'learning_rate': 2.1288e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0338, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.47}
+{'loss': 0.0344, 'learning_rate': 2.12312e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0338, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.47}
+{'loss': 0.0339, 'learning_rate': 2.11745e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0338, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.48}
+{'loss': 0.0333, 'learning_rate': 2.11177e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0338, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.48}
+{'loss': 0.0329, 'learning_rate': 2.1061e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0337, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.48}
+{'loss': 0.0333, 'learning_rate': 2.10042e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0337, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.49}
+{'loss': 0.0325, 'learning_rate': 2.09475e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0337, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.49}
+{'loss': 0.0334, 'learning_rate': 2.08907e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0337, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.5}
+{'loss': 0.0337, 'learning_rate': 2.0834e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0336, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.5}
+{'loss': 0.035, 'learning_rate': 2.07772e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0337, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.5}
+{'loss': 0.0331, 'learning_rate': 2.07205e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0337, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.51}
+{'loss': 0.0339, 'learning_rate': 2.06637e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0337, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.51}
+{'loss': 0.0338, 'learning_rate': 2.0607e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0336, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.52}
+{'loss': 0.0342, 'learning_rate': 2.05502e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0337, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.52}
+{'loss': 0.034, 'learning_rate': 2.04935e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0337, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.53}
+{'loss': 0.0343, 'learning_rate': 2.04367e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0337, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.53}
+{'loss': 0.0334, 'learning_rate': 2.038e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0337, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.53}
+{'loss': 0.0328, 'learning_rate': 2.03232e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0337, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.54}
+{'loss': 0.0334, 'learning_rate': 2.02665e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0336, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.54}
+{'loss': 0.0345, 'learning_rate': 2.02097e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0337, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.55}
+{'loss': 0.0341, 'learning_rate': 2.0153e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0337, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.55}
+{'loss': 0.0333, 'learning_rate': 2.00962e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0336, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.55}
+{'loss': 0.0326, 'learning_rate': 2.00395e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0336, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.56}
+{'loss': 0.0343, 'learning_rate': 1.99839e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0336, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.56}
+{'loss': 0.0327, 'learning_rate': 1.99271e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0336, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.57}
+{'loss': 0.0326, 'learning_rate': 1.98704e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0336, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.57}
+{'loss': 0.0341, 'learning_rate': 1.98136e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0337, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.57}
+{'loss': 0.0333, 'learning_rate': 1.97569e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0337, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.58}
+{'loss': 0.0333, 'learning_rate': 1.97001e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0336, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.58}
+{'loss': 0.033, 'learning_rate': 1.96434e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0335, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.59}
+{'loss': 0.033, 'learning_rate': 1.95866e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0335, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.59}
+{'loss': 0.0338, 'learning_rate': 1.95299e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0335, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.59}
+{'loss': 0.0327, 'learning_rate': 1.94731e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0335, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.6}
+{'loss': 0.0326, 'learning_rate': 1.94164e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0334, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.6}
+{'loss': 0.033, 'learning_rate': 1.93596e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0333, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.61}
+{'loss': 0.0328, 'learning_rate': 1.93029e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0333, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.61}
+{'loss': 0.034, 'learning_rate': 1.92461e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0333, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.62}
+{'loss': 0.0329, 'learning_rate': 1.91894e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0333, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.62}
+{'loss': 0.034, 'learning_rate': 1.91326e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0333, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.62}
+{'loss': 0.0337, 'learning_rate': 1.90759e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0333, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.63}
+{'loss': 0.0333, 'learning_rate': 1.90191e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0333, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.63}
+{'loss': 0.0336, 'learning_rate': 1.89624e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0333, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.64}
+{'loss': 0.0331, 'learning_rate': 1.89056e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0333, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.64}
+{'loss': 0.0329, 'learning_rate': 1.88489e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0332, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.64}
+{'loss': 0.0329, 'learning_rate': 1.87921e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0332, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.65}
+{'loss': 0.0317, 'learning_rate': 1.87354e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0332, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.65}
+{'loss': 0.0333, 'learning_rate': 1.86786e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0332, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.66}
+{'loss': 0.0332, 'learning_rate': 1.86219e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0332, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.66}
+{'loss': 0.0331, 'learning_rate': 1.85651e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0331, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.66}
+{'loss': 0.0341, 'learning_rate': 1.85084e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0332, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.67}
+{'loss': 0.033, 'learning_rate': 1.84516e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0332, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.67}
+{'loss': 0.0333, 'learning_rate': 1.83949e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0332, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.68}
+{'loss': 0.0332, 'learning_rate': 1.83381e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0332, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.68}
+{'loss': 0.0326, 'learning_rate': 1.82814e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0332, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.68}
+{'loss': 0.0316, 'learning_rate': 1.82246e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0331, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.69}
+{'loss': 0.0335, 'learning_rate': 1.81679e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0332, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.69}
+{'loss': 0.0334, 'learning_rate': 1.81111e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0331, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.7}
+{'loss': 0.0327, 'learning_rate': 1.80544e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0331, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.7}
+{'loss': 0.0324, 'learning_rate': 1.79976e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.033, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.7}
+{'loss': 0.0328, 'learning_rate': 1.79409e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.033, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.71}
+{'loss': 0.0327, 'learning_rate': 1.78841e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.033, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.71}
+{'loss': 0.0338, 'learning_rate': 1.78274e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.033, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.72}
+{'loss': 0.0322, 'learning_rate': 1.77706e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0329, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.72}
+{'loss': 0.033, 'learning_rate': 1.77139e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0329, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.73}
+{'loss': 0.0327, 'learning_rate': 1.76571e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0329, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.73}
+{'loss': 0.0337, 'learning_rate': 1.76004e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.033, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.73}
+{'loss': 0.0327, 'learning_rate': 1.75436e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.033, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.74}
+{'loss': 0.0313, 'learning_rate': 1.74869e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0329, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.74}
+{'loss': 0.0342, 'learning_rate': 1.74301e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0329, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.75}
+{'loss': 0.0333, 'learning_rate': 1.73734e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0329, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.75}
+{'loss': 0.0329, 'learning_rate': 1.73166e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0329, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.75}
+{'loss': 0.0337, 'learning_rate': 1.7261e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0329, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.76}
+{'loss': 0.0331, 'learning_rate': 1.72043e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0329, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.76}
+{'loss': 0.0331, 'learning_rate': 1.71475e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0329, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.77}
+{'loss': 0.0341, 'learning_rate': 1.70908e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0331, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.77}
+{'loss': 0.0331, 'learning_rate': 1.7034e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.033, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.77}
+{'loss': 0.0326, 'learning_rate': 1.69773e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.033, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.78}
+{'loss': 0.0323, 'learning_rate': 1.69205e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.033, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.78}
+{'loss': 0.0332, 'learning_rate': 1.68638e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.033, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.79}
+{'loss': 0.033, 'learning_rate': 1.6807e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.033, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.79}
+{'loss': 0.0331, 'learning_rate': 1.67503e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0331, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.79}
+{'loss': 0.0318, 'learning_rate': 1.66935e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.033, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.8}
+{'loss': 0.0327, 'learning_rate': 1.66368e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.033, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.8}
+{'loss': 0.0329, 'learning_rate': 1.658e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.033, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.81}
+{'loss': 0.0334, 'learning_rate': 1.65233e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.033, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.81}
+{'loss': 0.0326, 'learning_rate': 1.64665e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.033, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.82}
+{'loss': 0.0329, 'learning_rate': 1.64098e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.033, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.82}
+{'loss': 0.033, 'learning_rate': 1.6353e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0331, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.82}
+{'loss': 0.0319, 'learning_rate': 1.62963e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0329, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.83}
+{'loss': 0.0318, 'learning_rate': 1.62395e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0329, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.83}
+{'loss': 0.0326, 'learning_rate': 1.61828e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0329, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.84}
+{'loss': 0.0334, 'learning_rate': 1.6126e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0328, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.84}
+{'loss': 0.033, 'learning_rate': 1.60693e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0328, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.84}
+{'loss': 0.0324, 'learning_rate': 1.60125e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0328, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.85}
+{'loss': 0.0321, 'learning_rate': 1.59558e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0327, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.85}
+{'loss': 0.0328, 'learning_rate': 1.5899e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0327, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.86}
+{'loss': 0.0329, 'learning_rate': 1.58423e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0327, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.86}
+{'loss': 0.033, 'learning_rate': 1.57855e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0327, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.86}
+{'loss': 0.0335, 'learning_rate': 1.57288e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0327, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.87}
+{'loss': 0.0323, 'learning_rate': 1.5672e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0327, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.87}
+{'loss': 0.0323, 'learning_rate': 1.56153e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0327, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.88}
+{'loss': 0.0324, 'learning_rate': 1.55585e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0327, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.88}
+{'loss': 0.0329, 'learning_rate': 1.55018e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0327, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.88}
+{'loss': 0.0335, 'learning_rate': 1.5445e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0327, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.89}
+{'loss': 0.0327, 'learning_rate': 1.53883e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0327, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.89}
+{'loss': 0.0327, 'learning_rate': 1.53315e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0327, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.9}
+{'loss': 0.0326, 'learning_rate': 1.52748e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0327, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.9}
+{'loss': 0.0328, 'learning_rate': 1.5218e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0327, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.91}
+{'loss': 0.033, 'learning_rate': 1.51613e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0327, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.91}
+{'loss': 0.0328, 'learning_rate': 1.51045e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0328, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.91}
+{'loss': 0.0321, 'learning_rate': 1.50478e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0328, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.92}
+{'loss': 0.0328, 'learning_rate': 1.4991e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0327, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.92}
+{'loss': 0.0327, 'learning_rate': 1.49343e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0327, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.93}
+{'loss': 0.0332, 'learning_rate': 1.48775e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0328, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.93}
+{'loss': 0.0336, 'learning_rate': 1.48208e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0328, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.93}
+{'loss': 0.0331, 'learning_rate': 1.4764e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0329, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.94}
+{'loss': 0.0329, 'learning_rate': 1.47073e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0329, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.94}
+{'loss': 0.0316, 'learning_rate': 1.46505e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0328, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.95}
+{'loss': 0.0332, 'learning_rate': 1.45949e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0328, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.95}
+{'loss': 0.0327, 'learning_rate': 1.45382e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0328, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.95}
+{'loss': 0.033, 'learning_rate': 1.44814e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0328, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.96}
+{'loss': 0.0326, 'learning_rate': 1.44247e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0328, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.96}
+{'loss': 0.0332, 'learning_rate': 1.43679e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0328, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.97}
+{'loss': 0.0333, 'learning_rate': 1.43112e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0328, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.97}
+{'loss': 0.0331, 'learning_rate': 1.42544e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0329, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.97}
+{'loss': 0.0325, 'learning_rate': 1.41977e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0328, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.98}
+{'loss': 0.0335, 'learning_rate': 1.41409e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0329, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.98}
+{'loss': 0.0328, 'learning_rate': 1.40842e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0329, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.99}
+{'loss': 0.0322, 'learning_rate': 1.40274e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0328, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 2.99}
+{'loss': 0.0321, 'learning_rate': 1.39707e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0328, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.0}
+{'loss': 0.0324, 'learning_rate': 1.39139e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0328, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.0}
+{'loss': 0.031, 'learning_rate': 1.38572e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0327, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.0}
+{'loss': 0.0334, 'learning_rate': 1.38004e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0328, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.01}
+{'loss': 0.032, 'learning_rate': 1.37437e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0327, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.01}
+{'loss': 0.0326, 'learning_rate': 1.36869e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0327, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.02}
+{'loss': 0.0323, 'learning_rate': 1.36302e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0326, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.02}
+{'loss': 0.0328, 'learning_rate': 1.35734e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0326, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.02}
+{'loss': 0.0324, 'learning_rate': 1.35167e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0326, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.03}
+{'loss': 0.0325, 'learning_rate': 1.34599e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0326, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.03}
+{'loss': 0.0319, 'learning_rate': 1.34032e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0326, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.04}
+{'loss': 0.0332, 'learning_rate': 1.33464e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0326, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.04}
+{'loss': 0.0333, 'learning_rate': 1.32897e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0326, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.04}
+{'loss': 0.0318, 'learning_rate': 1.32329e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0325, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.05}
+{'loss': 0.0313, 'learning_rate': 1.31762e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0324, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.05}
+{'loss': 0.0332, 'learning_rate': 1.31194e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0324, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.06}
+{'loss': 0.0325, 'learning_rate': 1.30627e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0325, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.06}
+{'loss': 0.032, 'learning_rate': 1.30059e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0324, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.06}
+{'loss': 0.0321, 'learning_rate': 1.29492e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0323, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.07}
+{'loss': 0.032, 'learning_rate': 1.28924e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0323, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.07}
+{'loss': 0.0318, 'learning_rate': 1.28357e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0323, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.08}
+{'loss': 0.0335, 'learning_rate': 1.27789e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0324, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.08}
+{'loss': 0.0304, 'learning_rate': 1.27222e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0323, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.08}
+{'loss': 0.0318, 'learning_rate': 1.26654e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0323, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.09}
+{'loss': 0.0328, 'learning_rate': 1.26087e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0323, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.09}
+{'loss': 0.0332, 'learning_rate': 1.25519e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0323, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.1}
+{'loss': 0.0314, 'learning_rate': 1.24952e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0323, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.1}
+{'loss': 0.033, 'learning_rate': 1.24384e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0323, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.11}
+{'loss': 0.032, 'learning_rate': 1.23817e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0323, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.11}
+{'loss': 0.0319, 'learning_rate': 1.23249e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0323, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.11}
+{'loss': 0.0325, 'learning_rate': 1.22682e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0323, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.12}
+{'loss': 0.0315, 'learning_rate': 1.22126e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0322, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.12}
+{'loss': 0.0321, 'learning_rate': 1.21558e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0321, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.13}
+{'loss': 0.0328, 'learning_rate': 1.20991e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0322, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.13}
+{'loss': 0.0327, 'learning_rate': 1.20434e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0323, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.13}
+{'loss': 0.0323, 'learning_rate': 1.19867e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0322, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.14}
+{'loss': 0.0317, 'learning_rate': 1.19299e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0322, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.14}
+{'loss': 0.0316, 'learning_rate': 1.18732e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0322, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.15}
+{'loss': 0.0324, 'learning_rate': 1.18164e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0322, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.15}
+{'loss': 0.0326, 'learning_rate': 1.17597e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0322, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.15}
+{'loss': 0.0329, 'learning_rate': 1.17029e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0323, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.16}
+{'loss': 0.0327, 'learning_rate': 1.16462e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0322, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.16}
+{'loss': 0.0329, 'learning_rate': 1.15894e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0323, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.17}
+{'loss': 0.0317, 'learning_rate': 1.15327e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0323, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.17}
+{'loss': 0.0319, 'learning_rate': 1.14759e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0323, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.17}
+{'loss': 0.0325, 'learning_rate': 1.14192e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0323, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.18}
+{'loss': 0.0311, 'learning_rate': 1.13624e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0322, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.18}
+{'loss': 0.0328, 'learning_rate': 1.13057e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0322, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.19}
+{'loss': 0.0323, 'learning_rate': 1.1249e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0322, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.19}
+{'loss': 0.0324, 'learning_rate': 1.11922e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0323, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.2}
+{'loss': 0.0328, 'learning_rate': 1.11355e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0323, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.2}
+{'loss': 0.0322, 'learning_rate': 1.10787e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0323, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.2}
+{'loss': 0.0329, 'learning_rate': 1.1022e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0324, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.21}
+{'loss': 0.0324, 'learning_rate': 1.09652e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0323, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.21}
+{'loss': 0.0317, 'learning_rate': 1.09085e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0323, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.22}
+{'loss': 0.0323, 'learning_rate': 1.08517e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0323, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.22}
+{'loss': 0.0329, 'learning_rate': 1.0795e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0323, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.22}
+{'loss': 0.0327, 'learning_rate': 1.07382e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0324, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.23}
+{'loss': 0.0318, 'learning_rate': 1.06815e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0324, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.23}
+{'loss': 0.0319, 'learning_rate': 1.06247e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0323, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.24}
+{'loss': 0.0313, 'learning_rate': 1.0568e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0323, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.24}
+{'loss': 0.031, 'learning_rate': 1.05112e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0322, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.24}
+{'loss': 0.0329, 'learning_rate': 1.04545e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0322, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.25}
+{'loss': 0.0329, 'learning_rate': 1.03977e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0322, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.25}
+{'loss': 0.0324, 'learning_rate': 1.0341e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0323, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.26}
+{'loss': 0.0311, 'learning_rate': 1.02842e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0322, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.26}
+{'loss': 0.0311, 'learning_rate': 1.02275e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0322, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.26}
+{'loss': 0.0324, 'learning_rate': 1.01707e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0322, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.27}
+{'loss': 0.0313, 'learning_rate': 1.0114e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0321, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.27}
+{'loss': 0.0327, 'learning_rate': 1.00572e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0321, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.28}
+{'loss': 0.0327, 'learning_rate': 1.00005e-05, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0321, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.28}
+{'loss': 0.0312, 'learning_rate': 9.9437e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0321, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.29}
+{'loss': 0.0321, 'learning_rate': 9.887e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0321, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.29}
+{'loss': 0.0312, 'learning_rate': 9.8302e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.032, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.29}
+{'loss': 0.0321, 'learning_rate': 9.7735e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.032, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.3}
+{'loss': 0.0319, 'learning_rate': 9.7167e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.032, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.3}
+{'loss': 0.0321, 'learning_rate': 9.66e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.032, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.31}
+{'loss': 0.0317, 'learning_rate': 9.6032e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0319, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.31}
+{'loss': 0.033, 'learning_rate': 9.5465e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.032, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.31}
+{'loss': 0.0322, 'learning_rate': 9.4897e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.032, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.32}
+{'loss': 0.0322, 'learning_rate': 9.433e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.032, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.32}
+{'loss': 0.0326, 'learning_rate': 9.3762e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0321, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.33}
+{'loss': 0.0311, 'learning_rate': 9.3195e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.032, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.33}
+{'loss': 0.0325, 'learning_rate': 9.2627e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.032, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.33}
+{'loss': 0.0313, 'learning_rate': 9.206e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0319, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.34}
+{'loss': 0.0323, 'learning_rate': 9.1492e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.032, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.34}
+{'loss': 0.0321, 'learning_rate': 9.0925e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.032, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.35}
+{'loss': 0.0323, 'learning_rate': 9.0357e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.032, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.35}
+{'loss': 0.0317, 'learning_rate': 8.979e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0321, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.35}
+{'loss': 0.0313, 'learning_rate': 8.9222e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.032, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.36}
+{'loss': 0.0308, 'learning_rate': 8.8655e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0319, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.36}
+{'loss': 0.0308, 'learning_rate': 8.8087e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0319, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.37}
+{'loss': 0.0315, 'learning_rate': 8.752e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0318, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.37}
+{'loss': 0.0319, 'learning_rate': 8.6952e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0319, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.38}
+{'loss': 0.0318, 'learning_rate': 8.6385e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0319, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.38}
+{'loss': 0.0311, 'learning_rate': 8.5817e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0318, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.38}
+{'loss': 0.0313, 'learning_rate': 8.525e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0318, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.39}
+{'loss': 0.0322, 'learning_rate': 8.4682e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0318, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.39}
+{'loss': 0.0319, 'learning_rate': 8.4115e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0317, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.4}
+{'loss': 0.0319, 'learning_rate': 8.3547e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0317, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.4}
+{'loss': 0.0323, 'learning_rate': 8.298e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0317, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.4}
+{'loss': 0.0311, 'learning_rate': 8.2412e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0317, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.41}
+{'loss': 0.0326, 'learning_rate': 8.1845e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0317, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.41}
+{'loss': 0.0321, 'learning_rate': 8.1277e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0317, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.42}
+{'loss': 0.033, 'learning_rate': 8.071e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0318, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.42}
+{'loss': 0.0325, 'learning_rate': 8.0142e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0318, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.42}
+{'loss': 0.031, 'learning_rate': 7.9575e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0318, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.43}
+{'loss': 0.0317, 'learning_rate': 7.9007e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0317, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.43}
+{'loss': 0.0323, 'learning_rate': 7.844e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0318, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.44}
+{'loss': 0.0315, 'learning_rate': 7.7872e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0318, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.44}
+{'loss': 0.0311, 'learning_rate': 7.7305e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0318, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.44}
+{'loss': 0.0317, 'learning_rate': 7.6737e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0318, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.45}
+{'loss': 0.0311, 'learning_rate': 7.617e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0318, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.45}
+{'loss': 0.031, 'learning_rate': 7.5602e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0318, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.46}
+{'loss': 0.0317, 'learning_rate': 7.5035e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0318, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.46}
+{'loss': 0.0318, 'learning_rate': 7.4467e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0318, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.46}
+{'loss': 0.0311, 'learning_rate': 7.39e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0318, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.47}
+{'loss': 0.0313, 'learning_rate': 7.3332e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0317, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.47}
+{'loss': 0.0319, 'learning_rate': 7.2776e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0317, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.48}
+{'loss': 0.0318, 'learning_rate': 7.2208e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0317, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.48}
+{'loss': 0.0319, 'learning_rate': 7.1641e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0317, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.49}
+{'loss': 0.0321, 'learning_rate': 7.1073e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0318, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.49}
+{'loss': 0.0308, 'learning_rate': 7.0506e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0317, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.49}
+{'loss': 0.0311, 'learning_rate': 6.9938e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0316, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.5}
+{'loss': 0.031, 'learning_rate': 6.9371e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0315, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.5}
+{'loss': 0.031, 'learning_rate': 6.8803e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0314, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.51}
+{'loss': 0.031, 'learning_rate': 6.8236e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0314, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.51}
+{'loss': 0.0318, 'learning_rate': 6.7668e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0314, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.51}
+{'loss': 0.0311, 'learning_rate': 6.7101e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0314, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.52}
+{'loss': 0.0312, 'learning_rate': 6.6533e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0314, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.52}
+{'loss': 0.0312, 'learning_rate': 6.5966e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0314, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.53}
+{'loss': 0.0313, 'learning_rate': 6.5398e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0314, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.53}
+{'loss': 0.0317, 'learning_rate': 6.4831e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0314, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.53}
+{'loss': 0.0323, 'learning_rate': 6.4264e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0315, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.54}
+{'loss': 0.0305, 'learning_rate': 6.3696e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0314, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.54}
+{'loss': 0.031, 'learning_rate': 6.3129e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0313, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.55}
+{'loss': 0.031, 'learning_rate': 6.2561e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0313, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.55}
+{'loss': 0.0311, 'learning_rate': 6.1994e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0313, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.55}
+{'loss': 0.0312, 'learning_rate': 6.1426e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0313, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.56}
+{'loss': 0.0327, 'learning_rate': 6.0859e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0313, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.56}
+{'loss': 0.0309, 'learning_rate': 6.0291e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0313, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.57}
+{'loss': 0.0308, 'learning_rate': 5.9724e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0312, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.57}
+{'loss': 0.0315, 'learning_rate': 5.9167e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0313, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.58}
+{'loss': 0.031, 'learning_rate': 5.86e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0313, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.58}
+{'loss': 0.0321, 'learning_rate': 5.8032e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0313, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.58}
+{'loss': 0.0316, 'learning_rate': 5.7465e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0313, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.59}
+{'loss': 0.0319, 'learning_rate': 5.6897e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0314, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.59}
+{'loss': 0.032, 'learning_rate': 5.633e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0314, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.6}
+{'loss': 0.0321, 'learning_rate': 5.5762e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0314, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.6}
+{'loss': 0.031, 'learning_rate': 5.5195e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0314, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.6}
+{'loss': 0.0317, 'learning_rate': 5.4627e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0315, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.61}
+{'loss': 0.0306, 'learning_rate': 5.406e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0314, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.61}
+{'loss': 0.0313, 'learning_rate': 5.3492e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0314, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.62}
+{'loss': 0.0318, 'learning_rate': 5.2925e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0314, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.62}
+{'loss': 0.0318, 'learning_rate': 5.2357e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0314, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.62}
+{'loss': 0.0313, 'learning_rate': 5.179e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0315, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.63}
+{'loss': 0.0305, 'learning_rate': 5.1222e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0314, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.63}
+{'loss': 0.0311, 'learning_rate': 5.0655e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0314, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.64}
+{'loss': 0.0311, 'learning_rate': 5.0087e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0314, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.64}
+{'loss': 0.0308, 'learning_rate': 4.952e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0313, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.64}
+{'loss': 0.0314, 'learning_rate': 4.8952e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0314, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.65}
+{'loss': 0.0316, 'learning_rate': 4.8385e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0314, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.65}
+{'loss': 0.0312, 'learning_rate': 4.7817e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0314, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.66}
+{'loss': 0.0314, 'learning_rate': 4.725e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0314, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.66}
+{'loss': 0.0312, 'learning_rate': 4.6682e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0314, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.67}
+{'loss': 0.0325, 'learning_rate': 4.6115e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0314, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.67}
+{'loss': 0.0304, 'learning_rate': 4.5547e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0313, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.67}
+{'loss': 0.0314, 'learning_rate': 4.498e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0313, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.68}
+{'loss': 0.0319, 'learning_rate': 4.4412e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0313, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.68}
+{'loss': 0.0309, 'learning_rate': 4.3845e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0313, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.69}
+{'loss': 0.0318, 'learning_rate': 4.3277e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0313, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.69}
+{'loss': 0.0316, 'learning_rate': 4.271e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0313, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.69}
+{'loss': 0.0313, 'learning_rate': 4.2142e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0313, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.7}
+{'loss': 0.0315, 'learning_rate': 4.1575e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0313, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.7}
+{'loss': 0.031, 'learning_rate': 4.1007e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0313, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.71}
+{'loss': 0.0312, 'learning_rate': 4.044e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0313, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.71}
+{'loss': 0.0321, 'learning_rate': 3.9872e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0314, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.71}
+{'loss': 0.0312, 'learning_rate': 3.9305e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0314, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.72}
+{'loss': 0.0314, 'learning_rate': 3.8737e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0314, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.72}
+{'loss': 0.032, 'learning_rate': 3.817e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0314, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.73}
+{'loss': 0.0313, 'learning_rate': 3.7602e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0314, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.73}
+{'loss': 0.0316, 'learning_rate': 3.7035e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0314, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.73}
+{'loss': 0.0304, 'learning_rate': 3.6467e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0314, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.74}
+{'loss': 0.0307, 'learning_rate': 3.59e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0314, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.74}
+{'loss': 0.0316, 'learning_rate': 3.5332e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0314, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.75}
+{'loss': 0.0313, 'learning_rate': 3.4765e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0313, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.75}
+{'loss': 0.0311, 'learning_rate': 3.4197e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0314, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.76}
+{'loss': 0.0312, 'learning_rate': 3.363e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0314, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.76}
+{'loss': 0.0317, 'learning_rate': 3.3062e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0313, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.76}
+{'loss': 0.0322, 'learning_rate': 3.2495e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0314, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.77}
+{'loss': 0.0313, 'learning_rate': 3.1927e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0314, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.77}
+{'loss': 0.0321, 'learning_rate': 3.136e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0314, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.78}
+{'loss': 0.0318, 'learning_rate': 3.0792e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0314, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.78}
+{'loss': 0.0312, 'learning_rate': 3.0225e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0314, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.78}
+{'loss': 0.0303, 'learning_rate': 2.9657e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0314, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.79}
+{'loss': 0.0307, 'learning_rate': 2.909e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0314, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.79}
+{'loss': 0.0311, 'learning_rate': 2.8522e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0313, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.8}
+{'loss': 0.0316, 'learning_rate': 2.7955e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0313, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.8}
+{'loss': 0.032, 'learning_rate': 2.7387e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0314, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.8}
+{'loss': 0.0308, 'learning_rate': 2.682e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0313, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.81}
+{'loss': 0.0314, 'learning_rate': 2.6252e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0313, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.81}
+{'loss': 0.0306, 'learning_rate': 2.5685e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0312, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.82}
+{'loss': 0.0305, 'learning_rate': 2.5117e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0313, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.82}
+{'loss': 0.0309, 'learning_rate': 2.455e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0313, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.82}
+{'loss': 0.0318, 'learning_rate': 2.3982e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0313, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.83}
+{'loss': 0.0311, 'learning_rate': 2.3415e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0313, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.83}
+{'loss': 0.0305, 'learning_rate': 2.2847e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0312, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.84}
+{'loss': 0.033, 'learning_rate': 2.228e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0313, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.84}
+{'loss': 0.0301, 'learning_rate': 2.1712e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0313, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.84}
+{'loss': 0.0312, 'learning_rate': 2.1145e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0312, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.85}
+{'loss': 0.031, 'learning_rate': 2.0577e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0312, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.85}
+{'loss': 0.032, 'learning_rate': 2.001e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0312, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.86}
+{'loss': 0.0314, 'learning_rate': 1.9442e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0312, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.86}
+{'loss': 0.0313, 'learning_rate': 1.8875e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0312, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.87}
+{'loss': 0.0309, 'learning_rate': 1.8307e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0312, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.87}
+{'loss': 0.0315, 'learning_rate': 1.774e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0312, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.87}
+{'loss': 0.0314, 'learning_rate': 1.7172e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0312, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.88}
+{'loss': 0.0313, 'learning_rate': 1.6605e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0312, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.88}
+{'loss': 0.0309, 'learning_rate': 1.6038e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0312, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.89}
+{'loss': 0.0319, 'learning_rate': 1.547e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0312, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.89}
+{'loss': 0.0316, 'learning_rate': 1.4903e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0312, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.89}
+{'loss': 0.0318, 'learning_rate': 1.4335e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0313, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.9}
+{'loss': 0.0311, 'learning_rate': 1.3768e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0313, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.9}
+{'loss': 0.0309, 'learning_rate': 1.32e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0313, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.91}
+{'loss': 0.0313, 'learning_rate': 1.2633e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0313, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.91}
+{'loss': 0.0321, 'learning_rate': 1.2065e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0314, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.91}
+{'loss': 0.0313, 'learning_rate': 1.1498e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0314, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.92}
+{'loss': 0.0312, 'learning_rate': 1.0941e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0313, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.92}
+{'loss': 0.031, 'learning_rate': 1.0374e-06, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0314, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.93}
+{'loss': 0.031, 'learning_rate': 9.806e-07, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0313, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.93}
+{'loss': 0.0314, 'learning_rate': 9.239e-07, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0314, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.93}
+{'loss': 0.0314, 'learning_rate': 8.671e-07, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0313, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.94}
+{'loss': 0.0322, 'learning_rate': 8.104e-07, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0314, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.94}
+{'loss': 0.0312, 'learning_rate': 7.536e-07, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0314, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.95}
+{'loss': 0.0314, 'learning_rate': 6.969e-07, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0314, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.95}
+{'loss': 0.032, 'learning_rate': 6.401e-07, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0314, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.96}
+{'loss': 0.0311, 'learning_rate': 5.834e-07, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0314, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.96}
+{'loss': 0.0303, 'learning_rate': 5.266e-07, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0314, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.96}
+{'loss': 0.0303, 'learning_rate': 4.699e-07, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0313, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.97}
+{'loss': 0.032, 'learning_rate': 4.131e-07, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0313, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.97}
+{'loss': 0.0293, 'learning_rate': 3.564e-07, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0312, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.98}
+{'loss': 0.031, 'learning_rate': 2.996e-07, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0312, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.98}
+{'loss': 0.0323, 'learning_rate': 2.429e-07, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0312, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.98}
+{'loss': 0.0323, 'learning_rate': 1.861e-07, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0313, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.99}
+{'loss': 0.0313, 'learning_rate': 1.294e-07, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0313, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 3.99}
+{'loss': 0.0313, 'learning_rate': 7.26e-08, 'cuda_max_memory': 27750, 'dtc_loss': 0.0, 'mlm_loss': 0.0313, 'mvm_loss': 0.0, 'lcl_loss': 0.0, 'bdp_loss': 0.0, 'epoch': 4.0}
+{'train_runtime': 70285.5173, 'train_samples_per_second': 0.696, 'epoch': 4.0}

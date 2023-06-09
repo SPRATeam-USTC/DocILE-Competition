@@ -1,0 +1,1 @@
+from ..layoutlmv2 import LayoutLMv2Tokenizer as LayoutCLMv30Tokenizer

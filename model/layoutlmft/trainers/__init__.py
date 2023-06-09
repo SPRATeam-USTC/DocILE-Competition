@@ -1,0 +1,2 @@
+from .doclie_trainer import DocLIETrainer
+from .doclie_lir_trainer import DocileLirTrainer
