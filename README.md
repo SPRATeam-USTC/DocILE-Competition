@@ -45,5 +45,5 @@ KILE and LIR tasks have the same directory structure. Here is an explanation of 
 
 # Pretrained Model
 
-* We have released two pretrained GraphDoc model on DocILE unlabelled dataset, plus one swin transformer model. 
+* We have released two pretrained GraphDoc model on DocILE unlabelled dataset, plus one swin transformer model. Get them [here](https://rec.ustc.edu.cn/share/e4009c60-0851-11ee-9bb6-6366287beb97)!
 * Download them on `/model/pretrained_model` folder.
